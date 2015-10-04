@@ -339,29 +339,30 @@
 						}
 					});
 					$("body").on("click",".show-modules",function(e){
-					var sku = $(this).attr("data-sku"),
-					row = $(this).parents("tr"),
-					originalHeight = row.height() + 20,
-					offset = row.offset(),
-					parentOffset = $("#content-catalog-table-wrapper").offset(),
-					offset = {top:offset.top - parentOffset.top, left: offset.left - parentOffset.left};
-					$(this).hide().siblings().show();
-					$("#content-catalog-table-wrapper").append(modulesTemplate({width:row.width()-40,modules:data.modules[sku],sku:sku,bottom:"auto"}));
-					setTimeout(function(){
-					var height = $('[data-modules-for="'+sku+'"]').height() + 40;
-					$(".modules-container").not($('[data-modules-for="'+sku+'"]')).each(function(index){
-					var mod = $(this),
-					topOffset = mod.offset().top - parentOffset.top;
-					if ( topOffset > offset.top ) {
-					mod.css("top",topOffset+height);
-					}
-					});
-					row.find("td").css("padding-bottom",height);
-					$('[data-modules-for="'+sku+'"]').css({
-					visibility:"visible",
-					left: offset.left+20,
-					top: offset.top + originalHeight});
-					},0);
+						var sku = $(this).attr("data-sku"),
+						row = $(this).parents("tr"),
+						originalHeight = row.height() + 20,
+						offset = row.offset(),
+						parentOffset = $("#content-catalog-table-wrapper").offset(),
+						offset = {top:offset.top - parentOffset.top, left: offset.left - parentOffset.left};
+						$(this).hide().siblings().show();
+						$("#content-catalog-table-wrapper").append(modulesTemplate({width:row.width()-40,modules:data.modules[sku],sku:sku,bottom:"auto"}));
+						setTimeout(function(){
+							var height = $('[data-modules-for="'+sku+'"]').height() + 40;
+							$(".modules-container").not($('[data-modules-for="'+sku+'"]')).each(function(index){
+								var mod = $(this),
+								topOffset = mod.offset().top - parentOffset.top;
+								if ( topOffset > offset.top ) {
+									mod.css("top",topOffset+height);
+								}
+							});
+							row.find("td").css("padding-bottom",height);
+							$('[data-modules-for="'+sku+'"]').css({
+								visibility:"visible",
+								left: offset.left+20,
+								top: offset.top + originalHeight
+							});
+						},0);
 					});
 					$("body").on("click",".hide-modules",function(e){
 					var sku = $(this).attr("data-sku"),
