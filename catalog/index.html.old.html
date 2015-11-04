@@ -2,9 +2,9 @@
 	<head>
 		<title></title> 
 		<script async="" src="http://www.google-analytics.com/analytics.js"></script>
-		<script type="text/javascript" src="catalog/static/js/all.js"></script>
-		<link href="catalog/static/libs/Bootstrap/css/bootstrap.min.css" media="screen, projection" rel="stylesheet" type="text/css">
-		<link href="catalog/static/libs/DataTables-1.10.0/media/css/jquery.dataTables.min.css" media="screen, projection" rel="stylesheet" type="text/css">
+		<script type="text/javascript" src="static/js/all.js"></script>
+		<link href="static/libs/Bootstrap/css/bootstrap.min.css" media="screen, projection" rel="stylesheet" type="text/css">
+		<link href="static/libs/DataTables-1.10.0/media/css/jquery.dataTables.min.css" media="screen, projection" rel="stylesheet" type="text/css">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta http-equiv="Content-Language" value="en-US"> 
 	</head>
@@ -74,13 +74,13 @@
 				text-align: center;
 			}
 			table.dataTable thead .sorting {
-				background-image: url("catalog/static/libs/DataTables-1.10.0/media/images/sort_both.png");
+				background-image: url("static/libs/DataTables-1.10.0/media/images/sort_both.png");
 			}
 			table.dataTable thead .sorting_asc {
-				background-image: url("catalog/static/libs/DataTables-1.10.0/media/images/sort_asc.png");
+				background-image: url("static/libs/DataTables-1.10.0/media/images/sort_asc.png");
 			}
 			table.dataTable thead .sorting_desc {
-				background-image: url("catalog/static/libs/DataTables-1.10.0/media/images/sort_desc.png");
+				background-image: url("static/libs/DataTables-1.10.0/media/images/sort_desc.png");
 			}
 			#content {
 				padding: 0px !important;
@@ -204,7 +204,7 @@
 						return false;
 					}
 				});
-				$.getJSON('catalog/hol-content-catalog.json',function(data){
+				$.getJSON('hol-content-catalog.json',function(data){
 					$("#content-catalog-table-wrapper").empty().css("text-align","left");
 					var latestCatalog = [];
 					data.catalogs.latestCatalog = "2016 Hands-on Labs Content Catalog";
@@ -387,7 +387,7 @@
 		</script>
 		<div class="row header-container">
 			<div class="header-wrapper">
-				<div class="hol-logo"><img src="catalog/static/images/hol-logo.png" width="274" height="249"></div>
+				<div class="hol-logo"><img src="static/images/hol-logo.png" width="274" height="249"></div>
 				<div class="header-block">
 					<header class="header-title">Hands-on Labs - Content Catalog</header>
 					<div class="sub-header">
@@ -409,7 +409,7 @@
 					</div>
 				</div>
 				<div id="content-catalog-table-wrapper" style="text-align:center;" class="clearfix">
-					<img src="catalog/static/libs/DataTables-1.10.0/media/images/loading_animation.gif" style="text-align:center;margin-left:auto;margin-right:auto;" />
+					<img src="static/libs/DataTables-1.10.0/media/images/loading_animation.gif" style="text-align:center;margin-left:auto;margin-right:auto;" />
 				</div>
 				<div id="content-catalog-table-empty" style="text-align:center;display:none;font-size:18px;color:gray;padding:100px;" class="row">No Results</div>
 			</div>
