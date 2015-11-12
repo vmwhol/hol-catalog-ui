@@ -145,13 +145,13 @@
 				-o-border-radius: 5px;
 				border-radius: 5px;
 			}
-			#content-catalog-table td:nth-child(1), #content-catalog-table th:nth-child(1), #content-catalog-table td:nth-child(2), #content-catalog-table th:nth-child(2) {
+			#content-catalog-table td:nth-child(1), #content-catalog-table th:nth-child(1), #content-catalog-table td:nth-child(2), #content-catalog-table th:nth-child(2), #content-catalog-table td:nth-child(3), #content-catalog-table th:nth-child(3) {
 				display: none;
 			}
-			#content-catalog-table td:nth-child(5) {
+			#content-catalog-table td:nth-child(6) {
 				min-width: 500px;
 			}
-			#content-catalog-table td:nth-child(3) {
+			#content-catalog-table td:nth-child(4) {
 				text-align: center;
 			}
 			.modules-table thead th, .modules-table thead td {
@@ -220,6 +220,8 @@
 					Catalogs</th> \
 					<th style="width:0px;"> \
 					Products</th> \
+					<th style="width:0px;"> \
+					Languages</th> \
 					<th id="lab-sku-header"> \
 					Lab SKU</th> \
 					<th> \
@@ -264,6 +266,17 @@
 						{{/each}} \
 						</ul> \
 						</div>');
+					var languagesDropDown = Handlebars.compile('<div class="btn-group" style="margin-left:auto;margin-right:auto;display:table;"> \
+						<button type="button" class="btn btn-info btn-vmware-primary btn-lg dropdown-toggle" data-toggle="dropdown"> \
+						All Languages <span class="caret"></span> \
+						</button> \
+						<ul class="dropdown-menu" role="menu"> \
+						<li><a href="javascript:void(0);" class="select-lang" value="all">All Languages</a></li> \
+						{{#each languages}} \
+						<li><a href="javascript:void(0);" class="select-lang" value="{{this/[code]}}">{{this/[name]}}</a></li> \
+						{{/each}} \
+						</ul> \
+						</div>');
 					var modulesTemplate = Handlebars.compile('<div class="modules-container" data-modules-for="{{sku}}" style="position:absolute;visibility:hidden;bottom:{{#if bottom}}auto;{{else}}0px;{{/if}}left:0px;width:{{width}}px;"> \
 						<table class="table table-bordered modules-table"> \
 						<thead style="font-size:13px;"> \
@@ -298,9 +311,12 @@
 					data.catalogs.catalogs = filteredCatalogs;
 					$(".content-select-container").empty().append(dropDown(data.catalogs));
 					$(".product-select-container").empty().append(productsDropDown({products:data.products}));
+					$(".language-select-container").empty().append(languagesDropDown({languages:data.languages}));
 					var contentCatalogFilters = {catalog:data.catalogs.latestCatalog, product:"All Products"};
+					
 					$("body").on("click",".select-cat, .select-prod",function(e){
 						var selected = $(this).text();
+						var selValue = $(this).value();
 						if($(this).hasClass("select-cat")){
 							contentCatalogFilters.catalog = selected;
 						}else{
@@ -338,6 +354,7 @@
 							dataTable.fnAddData(finalFiltered);
 						}
 					});
+					
 					$("body").on("click",".show-modules",function(e){
 						var sku = $(this).attr("data-sku"),
 						row = $(this).parents("tr"),
@@ -406,6 +423,7 @@
 					<div style="display:table;margin-left:auto;margin-right:auto;">
 						<div class="content-select-container" style="padding:30px;padding-top:20px;padding-bottom:0px;float:left;"></div>
 						<div class="product-select-container" style="padding:30px;padding-top:20px;padding-bottom:0px;float:left;"></div>
+						<div class="language-select-container" style="padding:30px;padding-top:20px;padding-bottom:0px;float:left;"></div>
 					</div>
 				</div>
 				<div id="content-catalog-table-wrapper" style="text-align:center;" class="clearfix">
