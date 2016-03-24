@@ -10341,14 +10341,6 @@
     ],
     "languages": [
     {
-    	"code": "en",
-    	"name": "English"
-    },
-    {
-    	"code": "es",
-    	"name": "Español"
-    },
-    {
     	"code": "ja",
     	"name": "日本語 (Japanese)"
     },
@@ -10357,8 +10349,20 @@
     	"name": "中文 (Chinese)"
     },
     {
+    	"code": "ko",
+    	"name": "한국어 (Korean)"
+    },
+    {
+    	"code": "es",
+    	"name": "Español"
+    },
+    {
     	"code": "pt",
     	"name": "Português"
+    },
+    {
+    	"code": "en",
+    	"name": "English"
     }
     ]
 }

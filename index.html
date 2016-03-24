@@ -271,9 +271,9 @@
 						All Languages <span class="caret"></span> \
 						</button> \
 						<ul class="dropdown-menu" role="menu"> \
-						<li><a href="javascript:void(0);" class="select-lang" value="all">All Languages</a></li> \
+						<li><a href="javascript:void(0);" class="select-lang">All Languages</a></li> \
 						{{#each languages}} \
-						<li><a href="javascript:void(0);" class="select-lang" value="{{this/[code]}}">{{this/[name]}}</a></li> \
+						<li><a href="javascript:void(0);" class="select-lang">{{this/[name]}}</a></li> \
 						{{/each}} \
 						</ul> \
 						</div>');
@@ -314,16 +314,40 @@
 					$(".language-select-container").empty().append(languagesDropDown({languages:data.languages}));
 					var contentCatalogFilters = {catalog:data.catalogs.latestCatalog, product:"All Products"};
 					
-					$("body").on("click",".select-cat, .select-prod",function(e){
+					$("body").on("click",".select-cat, .select-prod, .select-lang",function(e){
 						var selected = $(this).text();
-						var selValue = $(this).value();
+						// var selValue = $(this).value();
 						if($(this).hasClass("select-cat")){
 							contentCatalogFilters.catalog = selected;
-						}else{
+						}else if($(this).hasClass("select-prod")){
 							contentCatalogFilters.product = selected;
+						}else{
+							switch (selected) {
+								case "日本語 (Japanese)":
+									contentCatalogFilters.language = "ja";
+									break;
+								case "中文 (Chinese)":
+									contentCatalogFilters.language = "zh";
+									break;
+								case "한국어 (Korean)":
+									contentCatalogFilters.language = "ko";
+									break;
+								case "Español":
+									contentCatalogFilters.language = "es";
+									break;
+								case "Português":
+									contentCatalogFilters.language = "pt";
+									break;
+								case "English":
+									contentCatalogFilters.language = "en";
+									break;
+								default:
+									contentCatalogFilters.language = "All Languages";
+							}
 						}
 						$(this).parents(".btn-group").find(".btn").first().get(0).innerHTML = (selected+' <span class="caret">');
 						var filtered = [],
+						langFiltered = [],
 						finalFiltered = [];
 						if(contentCatalogFilters.catalog !== "All Catalogs") {
 							for(var i=0; i<data.data.length; i++) {
@@ -334,14 +358,23 @@
 						}else{
 							filtered = data.data;
 						}
-						if(contentCatalogFilters.product !== "All Products") {
+						if(contentCatalogFilters.language !== "All Languages") {
 							for(var i=0; i<filtered.length; i++) {
-								if(new RegExp(contentCatalogFilters.product, 'gi').test(filtered[i][1])) {
-									finalFiltered.push(filtered[i]);
+								if(new RegExp(contentCatalogFilters.language, 'gi').test(filtered[i][2])) {
+									langFiltered.push(filtered[i]);
 								}
 							}
 						}else{
-							finalFiltered = filtered;
+							langFiltered = filtered;
+						}
+						if(contentCatalogFilters.product !== "All Products") {
+							for(var i=0; i<langFiltered.length; i++) {
+								if(new RegExp(contentCatalogFilters.product, 'gi').test(langFiltered[i][1])) {
+									finalFiltered.push(langFiltered[i]);
+								}
+							}
+						}else{
+							finalFiltered = langFiltered;
 						}
 						$(".modules-container").remove();
 						dataTable.fnClearTable();
