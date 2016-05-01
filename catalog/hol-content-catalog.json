@@ -795,7 +795,7 @@
     "vSphere 6 Challenge Lab",
     "The vSphere 6 Challenge asks you to put on your thinking cap to save the day! Each module places you in a different fictional scenario to fix common vSphere operational and performance problems. Have you ever had a disconnected host or a VM which will not power on? How about a mysterious poorly performing VM? Learn to solve these and more, and optional hints ensure you won't get stuck. Try it and leave a little wiser!",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-CHG-1695\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-CHG-1695\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695-hol_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695-hol_pdf_en.pdf\">PDF</a></div>"
+    "<div id=\"manual-wrapper-HOL-CHG-1695\"></div>"
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -10218,20 +10218,28 @@
         }
         ]
     },
-    "assets": {
-        "HOL-SDC-1695": [
+    "assets": [
+    {
+        "sku": "HOL-CHG-1695",
+        "localizations": [
         {
-            "language": "en",
+            "language": "English",
             "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695-hol_html_en/index.html",
             "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695-hol_pdf_en.pdf"
         },
         {
-            "language": "ja",
+            "language": "日本語 (Japanese)",
             "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695_html_ja/",
             "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695_pdf_ja.pdf"
+        },
+        {
+            "language": "中文 (Chinese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695_html_zh/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695_pdf_zh.pdf"
         }
         ]
-    },
+    }
+    ],
     "products": [
     "AirWatch",
     "Big Data Extensions",
