@@ -209,6 +209,14 @@
 					var latestCatalog = [];
 					data.catalogs.latestCatalog = "2016 Hands-on Labs Content Catalog";
 					for(var i=0; i<data.data.length; i++) {
+						var currentSKU = data.data[i][3];
+						if (Array.isArray(data.assets[currentSKU])) {
+							for (var j = 0, jlen = data.assets[currentSKU].length; j < jlen; j++) {
+								var currentLanguage = data.assets[currentSKU][j];
+								var localAssetTemplate = "<div class=\"btn-group\" style=\"margin-left:auto;margin-top:5px;margin-bottom:5px;margin-right:auto;display:table;\"> <button type=\"button\" class=\"btn btn-default btn-xs dropdown-toggle\" data-toggle=\"dropdown\">" + currentLanguage.language + " <span class=\"caret\"></span></button> <ul class=\"dropdown-menu\" role=\"menu\"> <li><a href=\"" + currentLanguage.html + "\" target=\"_blank\" class=\"select-manual\">HTML</a></li> <li><a href=\"" + currentLanguage.pdf + "\" target=\"_blank\" class=\"select-manual\">PDF</a></li> </ul> </div>";
+								data.data[i][7] = data.data[i][7] + localAssetTemplate;
+							}
+						}
 						if(data.data[i][0] === data.catalogs.latestCatalog) {
 							latestCatalog.push(data.data[i]);
 						}
@@ -313,15 +321,6 @@
 					$(".product-select-container").empty().append(productsDropDown({products:data.products}));
 					$(".language-select-container").empty().append(languagesDropDown({languages:data.languages}));
 					var contentCatalogFilters = {catalog:data.catalogs.latestCatalog, product:"All Products"};
-
-					for (var i = 0, ilen = data.assets.length; i < ilen; i++) {
-						var currentAsset = data.assets[i];
-						for (var j = 0, jlen = currentAsset.localizations.length; j < jlen; j++) {
-							var currentLanguage = currentAsset.localizations[j];
-							var localAssetTemplate = "<div class=\"btn-group\" style=\"margin-left:auto;margin-top:5px;margin-bottom:5px;margin-right:auto;display:table;\"> <button type=\"button\" class=\"btn btn-default btn-xs dropdown-toggle\" data-toggle=\"dropdown\">" + currentLanguage.language + " <span class=\"caret\"></span></button> <ul class=\"dropdown-menu\" role=\"menu\"> <li><a href=\"" + currentLanguage.html + "\" target=\"_blank\" class=\"select-manual\">HTML</a></li> <li><a href=\"" + currentLanguage.pdf + "\" target=\"_blank\" class=\"select-manual\">PDF</a></li> </ul> </div>";
-							$("#manual-wrapper-" + currentAsset.sku).append(localAssetTemplate);
-						}
-					}
 
 					$("body").on("click",".select-cat, .select-prod, .select-lang",function(e){
 						var selected = $(this).text();						

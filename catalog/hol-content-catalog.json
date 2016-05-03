@@ -15,7 +15,7 @@
     "Symantec Data Center Security: Server - Secure your SDDC",
     "Symantec Data Center Security: Server leverages NSX Service Composer and Security Groups to orchestrate and provision security policies for your virtual workloads. Provide agent-less malware protection and guest network threat protection with automated workflows.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1464\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1464\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1464_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1464_pdf_en.pdf\">PDF</a></div>"
+		""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -25,7 +25,7 @@
     "Atlantis USX Data Services and VSAN: Software-based Storage for Tier-1 Apps",
     "Get hands-on experience with Atlantis USX: Deliver dramatically higher-performance for your production workloads, VDI, and tier 1 apps at a fraction of the capacity and cost. Deploy Atlantis USX to pool VSAN with shared storage to build hyper-converged infrastructure.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1465\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1465\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1465_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1465_pdf_en.pdf\">PDF</a></div>"
+		""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -35,7 +35,7 @@
     "vRealize Automation 7: What's New",
     "This lab will showcase the new features in vRealize Automation 7. In this lab you will experience new features like the Converged Blueprint Designer, see the dynamic provisioning of NSX logical services including logical switches, routers, firewalls, and load balancers to support micro segmentation, and extensibility with Event Broker. This is a great lab for anyone looking at automating their environment.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1633\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1633\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1633_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1633_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -45,7 +45,7 @@
     "Avnet - Bridge the gap between Virtualization and IT Service Management",
     "Integrate BMC Remedy change ticket approval and Atrium CMDB CI creation into vCAC provisioning processes. Create, read and update a BMC Remedy Change ticket,\u00a0 BMC Remedy Help Desk (Incident) ticket and BMC Atrium CMDB Configuration Item (CI) using vCenter Orchestrator.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1466\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1466\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1466_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1466_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -55,7 +55,7 @@
     "Monitor Dell Compellent and Dell EqualLogic Storage with vCenter Operations Manager",
     "Use vCenter Operations Manager to monitor and manage Dell Compellent or Dell EqualLogic SAN Storage. Performance examples, troubleshooting tips, and other monitoring examples will be explored.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1467\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1467\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1467_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1467_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -65,7 +65,7 @@
     "Infoblox - Automate your cloud with vCAC 6.0 and Infoblox IPAM",
     "One key challenge facing Cloud Administrators is the amount of time needed to obtain an IP address for a virtual machine. Automate your IP Address assignment and DNS registration so that this critical process does not slow the deployment of your Cloud.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1468\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1468\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1468_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1468_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -75,7 +75,7 @@
     "Puppet Labs \u2013 Automate Your Virtual Datacenter with Puppet Enterprise",
     "Puppet Enterprise enables IT teams to automate VM lifecycle management and scale services quickly, reliably, and efficiently. In these modules, you will go hands-on with Puppet Enterprise, deploy a multi-tier managed application with vCAC 6 and Puppet Enterprise, and use the Puppet Enterprise vCenter plugin to manage VMware virtual infrastructure from a single pane of glass.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1469\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1469\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1469_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1469_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -85,7 +85,7 @@
     "HP - Storage Management and Troubleshooting using Insight Control, vCOps and HP StoreFront Analytics",
     "Test drive new unified VMware Storage Management and troubleshooting using HP's Insight Control (ONEVIEW).\u00a0 Identify and expand storage capability via single-click datastore deployment from within vCenter. Extend additional HP StoreFront Analytics for vCenter Operations Manager and vCOps to provide additional insight and value.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1470\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1470\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1470_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1470_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -95,7 +95,7 @@
     "NetApp VSC and VASA Provider for Clustered Data ONTAP - Policy-Based Management & VVOLs Preview",
     "This lab will focus on highlighting the latest innovations for storage provisioning and management, and will bring our VASA Provider for clustered Data ONTAP into the lab to demonstrate how pre-defined policies make provisioning and compliance even easier than before.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1471\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1471\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1471_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1471_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -105,7 +105,7 @@
     "Juniper Virtual Security for the Enterprise and Service Provider Environment",
     "So, you have decided to incorporate a cloud and/or virtualization into your business.\u00a0 This lab will show you how to secure and operate a software defined datacenter with Juniper's virtual security capabilities for your Enterprise or Service Provider environment.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1472\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1472\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1472_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1472_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -115,7 +115,7 @@
     "AirWatch - Explore and Deploy",
     "How do you plan to simplify enterprise mobility in your organization? You will use the AirWatch Enterprise Mobility Management platform with your own phone or tablet, or borrow a device from the labs team.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1457\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1457\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1457_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1457_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -125,7 +125,7 @@
     "VMware EVO:RAIL Introduction",
     "VMware EVO:RAIL\u2122 combines compute, networking, and storage resources into a hyper-converged infrastructure appliance to create a simple, easy to deploy, all-in-one solution offered by VMware qualified partners.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1428\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1428\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1428_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1428_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -135,7 +135,7 @@
     "Virtual Volumes",
     "Virtual Volumes, is VMware\u2019s new storage paradigm to facilitate per VM/VMDK data services on the storage array. This allows the storage to move away from a LUN centric storage representation to a granular form of representation. This is facilitated by the VMDK being stored natively on the storage array, which are referred to as Virtual Volumes (VVols). The storage array is made to be aware of the volumes and its association with the relevant VMs, through a special set of APIs, called vSphere APIs for Storage Awareness (VASA). Using these APIs, vSphere and the underlying storage array establish a two way communication for offloading certain services. \u00a0 This HOL gives you a closer look at Virutual Volumes so you can get familiar with the concepts and some of the data path workflows.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1429\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1429\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1429_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1429_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -145,7 +145,7 @@
     "VMware Workspace Portal - Explore and Deploy",
     "VMware Workspace Portal securely delivers your applications to any device. Gain hands-on experience in the Application Catalog, SAML integration and Desktop brokering",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1453\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1453\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1453_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1453_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -155,7 +155,7 @@
     "Horizon 6 with View from A to Z",
     "Complete a guided tour of Horizon 6 with View features with a focus on new technologies such as Cloud Pod Architecture, Hosted Applications, and vSAN, learn how to Optimize Horizon View for your environment, and learn steps to Troubleshoot a View environment while avoiding common issues.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1451\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1451\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1451_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1451_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -165,7 +165,7 @@
     "Managing Desktops with VMware Mirage",
     "VMware Mirage enables efficient and unified image management of physical, virtual and BYO desktops using layering technology. You will capture layers and use them to address common use cases that trouble desktop administrators today.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1455\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1455\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1455_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1455_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -175,7 +175,7 @@
     "Cloud Management with vRealize Operations",
     "VMware vRealize Operations Management suite delivers intelligent operations management across physical, virtual, and cloud infrastructures \u2014 from vSphere and Hyper-V to Amazon Web Services. It correlates data from applications to storage in a unified management tool that is easy-to-use and can provide control over performance, capacity, and configuration, with predictive analytics driving proactive action, and policy-based automation.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1401\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1401\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1401_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1401_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -185,7 +185,7 @@
     "vSphere Performance Optimization",
     "This Lab covers vSphere performance best practices and features. You will work with a broad array of solutions, including VMware Labs \"Flings,\" to gauge and diagnose performance in a VMware Environment, including vFRC, vNUMA and Latency Sensitivity.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1404\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1404\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1404_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1404_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -195,7 +195,7 @@
     "What's New with Virtual SAN 6?",
     "Experience VMware Virtual SAN for the first time.\u00a0 Learn how to deploy, configure, and manage VMware's latest hypervisor-converged storage solution.\u00a0 Includes new and updated modules for the 2014 catalog.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1408\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1408\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1408_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1408_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -205,7 +205,7 @@
     "What's New with vSphere 6?",
     "This introductory lab demonstrates the core features and functions of vSphere and vCenter. This is an excellent place to begin your experience with VMware vSphere.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1410\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1410\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1410_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1410_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -215,7 +215,7 @@
     "IT Outcomes \u2013 High Availability and Resilient Infrastructure",
     "VMware Business Continuity and Disaster Recovery (BC/DR) solutions drive automation, efficiency, data protection, and validation of an organization's enterprise-level BC/DR strategy. Learn how to reduce downtime and increase availability for your applications and services with Site Recovery Manager (SRM) and VMware Data Protection Advanced (VDP-A).",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1405\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1405\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1405_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1405_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -225,7 +225,7 @@
     "VMware Automation Solutions",
     "VMware vCloud Automation Solutions accelerate the journey to a lights-out, fully automated, and efficient Software-Defined Datacenter. Explore vCenter Orchestrator, PowerCLI, VSAN, and Auto Deploy working together to solve real-word problems.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1407\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1407\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1407_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1407_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -235,7 +235,7 @@
     "IT Outcomes \u2013 App and Infrastructure Delivery Automation",
     "Reduce time to deliver applications and infrastructure with automated provisioning and policy-based governance throughout the service delivery lifecycle using vRealize Automation and Application Services. Integration points with VMware's NSX for vSphere will be shown, as well as external service integration (such as vCloud Air, IP, and service management), and extensibility through additional automation.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1413\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1413\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1413_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1413_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -245,7 +245,7 @@
     "vSphere Big Data Extensions",
     "vSphere Big Data Extensions (BDE) makes Hadoop virtualization-aware, improves performance in virtual environments and enables deployment of highly available Hadoop clusters in minutes. You can choose from introductory to advanced modules in this exciting lab topic.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1409\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1409\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1409_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1409_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -255,7 +255,7 @@
     "vSphere Distributed Switch from A to Z",
     "This is an ideal lab to learn the basics and advanced virtual network configuration options on vSphere using the vSphere Distributed Switch (VDS). We will cover configuration through migration from a vSphere Standard Switch (VSS) to VDS, Quality of Service, Monitoring with Layer 3 SPAN, High Availability with LACP and some troubleshooting steps. The lab will also help build a basic knowledge of VDS, which is a foundation to NSX deployments.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1402\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1402\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1402_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1402_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -265,7 +265,7 @@
     "VMware NSX Introduction",
     "VMware NSX is the platform for Network Virtualization. You will gain hands-on experience with Logical Switching, Distributed Logical Routing, Dynamic Routing, Distributed Firewall and Logical Network Services. This lab introduces the core capabilities of VMware NSX in vSphere environments used to enable Network and Security virtualization.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1403\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1403\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1403_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1403_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -275,7 +275,7 @@
     "IT Cost Transparency with vRealize Business",
     "Gain transparency into and proactively manage the costs, quality, and performance of IT services, vendors, and contracts through insightful dashboards, analytics, and capabilities that helps align IT to the demands of the business.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1411\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1411\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1411_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1411_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -285,7 +285,7 @@
     "VMware vCloud\u00ae Air\u2122 - Jump Start for vSphere Admins",
     "Learn how to use VMware vCloud\u00ae Air\u2122. Deploy a virtual machine, migrate from your existing vSphere environment, and explore basic networking and security principles.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-HBD-1481\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-HBD-1481\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1481_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1481_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -295,7 +295,7 @@
     "VMware vCloud\u00ae Air\u2122 - Networking & Security",
     "VMware vCloud\u00ae Air\u2122 facilitates advanced networking features. You will experience vCloud Air through the eyes of a systems administrator facing such issues as IP address mobility and security.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-HBD-1482\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-HBD-1482\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1482_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1482_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -305,7 +305,7 @@
     "IT Outcomes \u2013 Security Controls Native to Infrastructure",
     "Learn how several VMware technologies work together to implement policy-based network control, configuration and compliance management, and intelligent operations management. You will use NSX for vSphere to isolate, protect, and apply security policies across virtual network workloads. Use vCenter Configuration Manager to continuously identify, assess, and remediate out-of-compliance virtual machines. Finally, you will use vCenter Operations Manager for operational insight into the health, risk, and efficiency of the virtual infrastructure.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1415\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1415\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1415_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1415_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -315,7 +315,7 @@
     "IT Outcomes \u2013 Streamlined and Automated Data Center Operations",
     "Use the VMware vCloud Suite to manage Business Critical Applications (BCA). See how applications such as Microsoft SQL and Exchange can be managed using vCenter Operations Manager (vCOps) with data from vCenter Infrastructure Navigator (VIN), vCenter Hyperic, and vCloud Hybrid Service (vCHS). See demonstrations of monitoring, capacity and performance management, application grouping, super metrics and more.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1416\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1416\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1416_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1416_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -325,7 +325,7 @@
     "VMware vCloud\u00ae Air\u2122 - Manage Your Cloud",
     "VMware vCloud\u00ae Air\u2122 is VMware's Infrastructure as a Service offering. You will manage users and role-based access, deploy from the Service Catalog, and use a host of VMware solutions with both vSphere and VMware vCloud\u00ae Air\u2122",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-HBD-1483\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-HBD-1483\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1483_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1483_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -335,7 +335,7 @@
     "OpenStack with VMware vSphere and NSX",
     "Are you interested in learning more about OpenStack?\u00a0 OpenStack is a cloud API framework that enables self-service cloud provisioning and automation.\u00a0 You will take a basic tour of OpenStack and use it with vSphere and NSX to provision compute, storage and networking resources.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1420\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1420\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1420_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1420_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -345,7 +345,7 @@
     "Using vRealize Automation to Build and Deploy Services and Applications",
     "This lab will demonstrate the ability to use vRealize Automation to rapidly automate the deployment and management of a variety of IT services and applications. It covers key features of vRealize Automation 6, including use cases from the perspectives of the consumers, business managers and administrators.\u00a0 You will explore the integrations between vRealize Automation and vRealize Application Services, vRealize Orchestrator and vRealize Business Standard, and develop new service offerings through the Advanced Service Designer.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1421\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1421\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1421_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1421_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -355,7 +355,7 @@
     "VMware Development Tools and SDKs",
     "This introductory lab will get you up and running building cloud infrastructure solutions with VMware development tools and SDKs. These are developer focused modules and some familiarity with programming in Java or Python is expected. But don't worry, no coding is required. Complete sample code has been provided.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1422\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1422\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1422_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1422_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -365,7 +365,7 @@
     "VMware vCloud\u00ae Air\u2122 Disaster Recovery",
     "What is your plan for Disaster Recovery? In this lab, you will leverage VMware vCloud\u00ae Air\u2122 as a Disaster Recovery target. See how powerful this solution can be.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-HBD-1484\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-HBD-1484\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1484_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1484_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -375,7 +375,7 @@
     "VMware NSX and the vRealize Suite",
     "This NSX lab covers integration of NSX with components of the vCloud Suite to deliver on the Software Defined Datacenter.  Integration of NSX with Management components like vCloud Automation Center (vCAC), vCenter Operations Manager(vC Ops) and Log Insight is covered in this lab. In addition, the lab also demonstrates how NSX is a platform built for automation by using vCO and the NSX API.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1424\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1424\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1424_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1424_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -385,7 +385,7 @@
     "VMware NSX Advanced",
     "This lab covers advanced NSX topics and builds on the basics learned in the \"VMware NSX Introduction (HOL-SDC-1403)\" lab. Attendees will gain hands-on experience on advanced NSX features like DHCP Relay, L2VPN, ECMP and Service Composer. This lab will also cover Third party integration with NSX by highlighting Networking Management, Load Balancing and End-Point Security Partners to demonstrate how NSX provides a comprehensive platform for Network and Security Virtualization.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1425\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1425\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1425_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1425_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -395,7 +395,7 @@
     "Log Insight in the Real World",
     "In this lab you will learn how to use Log Insight to troubleshoot common issues. You will also learn how Log Insight can detect issues in your virtual infrastructure and server environments.\u00a0 This lab will also cover all of the Log Insight basics like configuration, log collection setup, how to use Content Packs, and integration with vCenter Operations Manager.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1426\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1426\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1426_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1426_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -405,7 +405,7 @@
     "Horizon 6 with View Use Cases",
     "You will experience different use cases for Horizon 6 with View, such as the Call Center Desktop, Branch Office Desktop and Mobile Secure Workplace (with focus on Fed Secure Desktop and Always-On Point of Care). Additional modules include: an overview of the new App Volumes, Mirage Controlled View Static Desktops, and A Guided Tour of vCenter Operations for View.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1452\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1452\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1452_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1452_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -415,7 +415,7 @@
     "Horizon Air - Explore and Deploy",
     "This lab will introduce you to desktop as a service (DaaS). Through hands-on exercises, you will learn how DaaS goes beyond typical virtual desktop infrastructure (VDI), and work closely with VMware Horizon Air, the market leading offering.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1456\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1456\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1456_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1456_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -425,7 +425,7 @@
     "vCloud Suite 101",
     "This introductory lab demonstrates the first steps in the journey to a Software Defined Enterprise by implementing all components of vCloud Suite Standard, which focuses on the core features and functions of vSphere, vCenter, vRealize Operations Manager and vRealize Automation Center. This is an excellent place to begin your Software Defined Data Center (SDDC) experience by moving from the world of traditional templates to blueprints that enable Automated Infrastructure Delivery.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1406\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1406\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1406_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1406_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -435,7 +435,7 @@
     "IT Outcomes \u2013 Data Center Virtualization and Standardization",
     "This lab will focus on taking the traditional benefits of vSphere and extending it further into your Software-Defined Data Center (SDDC) through Software-Defined Storage using Virtual SAN and network virtualization using NSX for vSphere. This will enable organizations to see how to deliver the same efficiency and agility for the datacenter as it does right now for the VM.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1412\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1412\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1412_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1412_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -445,7 +445,7 @@
     "VMware Software Defined Storage solutions for the Enterprise",
     "Software Defined Storage is here today.\u00a0 See how VMware can deliver a complete set of storage capabilities, on-demand and dynamically created, using exciting new solutions such as Storage Policy Based Management (SPBM), Virtual SAN, and Virtual Volumes.\u00a0 Learn how to manage policies in this new model and offer storage services to users on a self-service basis.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1427\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1427\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1427_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1427_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -455,7 +455,7 @@
     "Palo Alto Networks - Virtualized Data Center Security",
     "Configure the Palo Alto Networks virtualized next-generation firewall VM-1000-HV with VMware NSX to protect VM to VM communications from today's advanced threats.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1462\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1462\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1462_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1462_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -465,7 +465,7 @@
     "Blue Medora - vCenter Operations Management Pack for Oracle Enterprise Manager",
     "Get the most out of your Oracle Enterprise Manager data using vCenter Operations Manager. You will install and configure the vCenter Operations Management Pack for Oracle Enterprise Manager to achieve comprehensive visibility into the performance, capacity, and health of the monitored infrastructure.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1463\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1463\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1463_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1463_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -475,7 +475,7 @@
     "Policy Based Storage Management - EMC ViPR Integrations with VMware",
     "You will explore how EMC ViPR with VMware integrations can easily map your classes-of-services to vCenter storage profiles and provision block, file, and object storage. Monitor and report capacity usage across your enterprise in a single view.\u00a0 Includes the ViPR plug-ins for vCOps, vCenter and VCO.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1461\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1461\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1461_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1461_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -485,7 +485,7 @@
     "Applied ThinApp - Capture and Deploy Packages",
     "VMware ThinApp accelerates and simplifies application deployment and migration. You will learn what's new in ThinApp.next, build ThinApp packages, and discover the tools available for updating and managing packages.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1454\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1454\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1454_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1454_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -495,7 +495,7 @@
     "Docker Essentials for the vSphere Admin",
     "DevOps, Containers, Docker, Mesos, Kubernetes, Microservices,\u00a012-factor applications, 3rd platform, oh my! \u00a0 Modern application architecture and its associated lifecycle is\u00a0changing fast and that means yet more demands on IT. \u00a0While some have argued that this new application approach calls for a whole new infrastructure, \u00a0you will learn how to address these new business-driven demands head on, leveraging your existing investment, while still delivering the highest SLOs \u2013 performance, availability, security, compliance, disaster recovery to name a few. \u00a0You will discover how the\u00a0emerging 3rd\u00a0Platform Application stack not only fits into your\u00a0existing SDDC infrastructure investments but is actually the best place to run containers and emerging 3rd platform applications.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1430\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1430\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1430_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1430_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -505,7 +505,7 @@
     "vSphere Optimization Assessment",
     "vSphere Optimization Assessment (VOA) uses vRealize Operations Manager with customized vOA specific reports to produce immediate and timed valuable results in a structured (mini) Proof of Concept format. It delivers immediate value starting day 1, with a vSphere configuration audit report, and provides additional benefits by identifying performance improvement and capacity optimization recommendations throughout the program.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1431\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1431\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1431_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1431_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -515,7 +515,7 @@
     "VMware NSX Introduction",
     "VMware NSX is the platform for Network Virtualization. You will gain hands-on experience with Logical Switching, Distributed Logical Routing, Dynamic Routing, Distributed Firewall and Logical Network Services. This lab introduces the core capabilities of VMware NSX in vSphere environments used to enable Network and Security virtualization.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1603\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1603\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1603_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1603_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -525,7 +525,7 @@
     "vSphere Optimization Assessment",
     "The purpose of the lab is to demonstrate the value of the VOA and enable a partner engineer to deliver a successful VOA.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1631\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1631\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1631_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1631_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -535,7 +535,7 @@
     "VMware NSX Advanced",
     "This lab covers advanced NSX topics and builds on the basics learned in the \"VMware NSX Introduction (HOL-SDC-1603)\" lab. Attendees will extend NSX into a dual vCenter environment to experience multi-site virtual networking and security.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1625\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1625\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1625_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1625_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -545,7 +545,7 @@
     "vRealize Automation Advanced: Integration and Extensibility",
     "This advanced lab will explore out-of-the-box integrations with other vRealize Suite products, and you will learn all about extending the provisioning life-cycle for many common use cases. Using vRealize Orchestrator and its plugins, you will learn how to implement custom host naming and integration with Infoblox and Puppet. You will explore the vRealize Automation API.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1632\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1632\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1632_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1632_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -555,7 +555,7 @@
     "Big Data and vSphere",
     "vSphere Big Data Extensions (BDE) makes Hadoop virtualization-aware, improves performance in virtual environments and enables deployment of highly available Hadoop clusters in minutes. You can choose from introductory to advanced modules in this exciting lab topic.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1609\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1609\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1609_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1609_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -565,7 +565,7 @@
     "VMware vCloud\u00ae Air\u2122 Data Services",
     "Learn how to use Continuent to protect a MySQL database for commercial-grade high availability (HA), globally redundant disaster recovery (DR) and performance scaling. VMware Continuent makes it simple to create database clusters on-premises and in vCloud Air, to keep the data available even when systems fail.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-HBD-1686\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-HBD-1686\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1686_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1686_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -575,7 +575,7 @@
     "VMware vCloud\u00ae Air\u2122 Disaster Recovery",
     "What is your plan for Disaster Recovery? In this lab, you will leverage VMware vCloud\u00ae Air\u2122 as a Disaster Recovery target. Failover, reverse failback, point in time recovery, automate with vRealize Orchestrator, all using your vSphere Web Client. See how powerful this solution can be.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-HBD-1684\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-HBD-1684\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1684_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1684_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -585,7 +585,7 @@
     "IT Cost Transparency with vRealize Business",
     "Gain transparency into and proactively manage the costs, quality, and performance of IT services, vendors, and contracts through insightful dashboards, analytics, and capabilities that help align IT to the demands of the business.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1611\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1611\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1611_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1611_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -595,17 +595,7 @@
     "Introducing Flexible Desktop Management for the Mobile User with VMware Horizon FLEX",
     "This lab will provide an understanding on how VMware Horizon FLEX can help I.T. manage security while allowing the convenience of BYO and temporary mobile users.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1655\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1655\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1655_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1655_pdf_en.pdf\">PDF</a></div>"
-    ],
-    [
-    "2016 Hands-on Labs Content Catalog",
-    "",
-    "en",
-    "HOL-PRT-1674",
-    "Dell Storage presents Virtual Volumes, vSphere Metro Stretched Cluster and more",
-    "Learn how to easy it is to configure a Highly Available Dell Storage solution in a vSphere Metro Cluster configuration and witness Live Volume Auto-Failover technology in action.\u00a0 Get hands on with EqualLogic\u2019s full featured Virtual Volumes lab and understand what all the excitement is about. See the ease of hardware manageability that FX2 CMC provides for vSAN.",
-    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1674\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1674\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1674_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1674_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -615,7 +605,7 @@
     "Cloud Management with vRealize Operations",
     "VMware vRealize Operations delivers intelligent operations management across physical, virtual, and cloud infrastructures \u2014 from vSphere and Hyper-V to Amazon Web Services. It correlates data from applications to storage in a unified management tool that is easy-to-use and can provide control over performance, capacity, and configuration, with predictive analytics driving proactive action, and policy-based automation.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1601\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1601\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1601_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1601_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -625,7 +615,7 @@
     "VMware Development Tools and SDKs",
     "This introductory lab will get you started building and automating cloud infrastructure solutions with VMware development tools and SDKs. These are scripter and developer focused modules and some familiarity with programming in Python or Java is expected. But don't worry, no coding is required. Complete sample code has been provided.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1622\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1622\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1622_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1622_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -635,7 +625,7 @@
     "VMware EVO:RAIL Introduction",
     "VMware EVO:RAIL\u2122 combines compute, networking, and storage resources into a hyper-converged infrastructure appliance to create a simple, easy to deploy, all-in-one solution offered by VMware qualified partners.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1628\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1628\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1628_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1628_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -645,7 +635,7 @@
     "vSphere with Operations Management 6: Advanced Topics",
     "This advanced lab demonstrates the more complex features and functions of vSphere with Operations Management including vSphere, vCenter and vRealize Operations Manager. This is an excellent place to begin your experience with VMware vSphere. TBD Includes PowerCLI",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1602\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1602\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1602_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1602_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -655,7 +645,7 @@
     "VMware NSX and the vRealize Suite",
     "This NSX lab covers integration of NSX with components of the vRealize Suite to deliver on the Software Defined Datacenter.  Integration of NSX with Management components like vRealize Automation (vRA), vRealize Operations (vROPs) and vRealize Log Insight is covered in this lab.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1624\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1624\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1624_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1624_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -665,7 +655,7 @@
     "Cloud 101 - Deliver your Infrastructure as a Service",
     "This introductory lab demonstrates the first steps in the journey to a Software Defined Enterprise by implementing all components of vCloud Suite Standard, which focuses on the core features and functions of vSphere, vCenter, vRealize Operations Manager and vRealize Automation. This is an excellent place to begin your Software Defined Data Center (SDDC) experience by moving from the world of traditional templates to blueprints that enable automated infrastructure delivery.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1606\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1606\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1606_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1606_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -675,7 +665,7 @@
     "Data Center Migration and Disaster Recovery",
     "VMware availability solutions drive automation, efficiency, data protection, and validation of an organization's business continuity and disaster recovery strategy. Learn how to minimize risk and reduce downtime for\u00a0 your applications and services with Site Recovery Manager (SRM) and vCloud Air Disaster Recovery",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1605\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1605\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1605_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1605_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -685,7 +675,7 @@
     "F5 Integration with VMware Mobility",
     "This hands on lab will explore the use case for load balancing and the advantages of the F5 solution with VMware Mobility Solutions. You will perform the initial configuration of the F5 BIG-IP, configure high availability of the appliances, and integrate the BIG-IP with VMware Horizon 6 and VMware Workspace Portal.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1659\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1659\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1659_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1659_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -695,7 +685,7 @@
     "VMware vCloud\u00ae Air\u2122 - Manage Your Cloud",
     "Automate your way to cloud self-service. In this lab you will integrate VMware vCloud\u00ae Air\u2122 with vRealize Automation and manage blueprints from a service catalog, add governance to vCloud Air deployments and reserve capacity for authorized users. The combination of both vRealize Automation and vCloud Air allows you to become more agile and enable various use cases that are not found in the traditional data center.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-HBD-1683\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-HBD-1683\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1683_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1683_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -705,7 +695,7 @@
     "NetApp & VMware Automation: Seamlessly Provision and Recover Tier-1 Applications",
     "In this lab, the student will deploy, and walk through the entire lifecycle of a tier-1 workload.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1675\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1675\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1675_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1675_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -715,7 +705,7 @@
     "vSphere Performance Optimization",
     "This Lab, HOL-SDC-1604, covers vSphere performance best practices and various performance related features available in vSphere 6. You will work with a broad array of solutions and tools, including VMware Labs \"Flings\" and esxtop to gauge and diagnose performance in a vSphere Environment.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1604\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1604\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1604_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1604_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -725,7 +715,7 @@
     "Delivery and Management of the Transforming Desktop",
     "Gain an understanding on how to transform your environment with VMware EUC Solutions. You will gain an understanding of securely delivering and managing a desktop environment from both the I.T. Admin and End User roles. \u00a0This will cover delivering, management, and end user access of desktop types such as VDI, RDS, and Physical as well as the ability to integrate and manage desktop solutions with various products such as Horizon 6, vCenter Operations for Horizon, VMware Mirage - both for VDI and native desktops, Horizon FLEX, VMware User Environment Manager, VMware App Volumes, App Volumes, and MS Remote Desktop Services hosts.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1652\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1652\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1652_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1652_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -735,7 +725,7 @@
     "Application Delivery and Lifecycle Management",
     "Delivery and Management of Applications with VMware EUC Products. Discover the various solutions which VMware provides for Application Management and Delivery to end user systems - both physical and virtual. Understand the benefits of each way in which applications may be deployed and managed as well as how they can be updated and the steps necessary to do so.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1654\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1654\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1654_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1654_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -745,7 +735,7 @@
     "Horizon Air \u2013 Explore and Manage",
     "This lab will introduce you to desktop as a service (DaaS). Through hands-on exercises, you will learn how DaaS goes beyond typical virtual desktop infrastructure (VDI), and work closely with VMware Horizon Air, the market leading offering.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1656\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1656\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1656_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1656_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -755,7 +745,7 @@
     "Advanced Technical Concepts of Horizon 6 from A to Z",
     "You will gain an in-depth understanding of Horizon 6 Features and Functionality, focusing on newer features and technical details on integration with products such as VMware App Volumes (AppStack Creation and Deployment) and VMware User Environment Manager (Setup/Config) and also getting hands on with View Planner for VDI/RDSH sizing.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1651\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1651\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1651_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1651_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -765,7 +755,7 @@
     "VVol, Virtual SAN & Storage Policy Based Management",
     "Software Defined Storage is here today.\u00a0 See how VMware can deliver a complete set of storage capabilities, on-demand and dynamically created, using exciting new solutions such as Storage Policy Based Management (SPBM), Virtual SAN, and Virtual Volumes.\u00a0 Learn how to manage policies in this new model and offer storage services to users on a self-service basis.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1627\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1627\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1627_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1627_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -775,7 +765,7 @@
     "vRealize Automation 101: Application and Infrastructure Delivery and DevOps with Code Stream",
     "This lab will demonstrate the ability to use vRealize Automation to rapidly automate the deployment and management of a variety of IT services and applications.\u00a0 It will also show how vRealize Code Stream provides release automation and continuous delivery. It covers key features of vRealize Automation, including use cases from the perspectives of the consumers, business managers and administrators.\u00a0 You will also explore the integrations with vRealize Application Services and vRealize Code Stream, and review tenant configuration.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1621\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1621\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1621_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1621_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -785,7 +775,7 @@
     "Advanced Concepts of VMware Workspace Portal",
     "Introduction to Workspace Portal, Workspace Reporting, Workspace & ThinApp Integration (including HTTP Streaming), RDS App/Desktop thru Workspace, Integrating RADIUS and SQL 2014, SAML Application integration, Integrating non-SAML apps.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1653\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1653\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1653_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1653_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -805,7 +795,7 @@
     "VMware vCloud\u00ae Air\u2122 - Jump Start for vSphere Admins",
     "What Is VMware vCloud Air? vCloud Air is a public cloud platform built on the trusted foundation of vSphere, compatible with your on-premises data center, that includes infrastructure, disaster recovery, and various applications as service offerings. vCloud Air allows you to extend your workloads into the cloud with ease. You can migrate existing onsite virtual machines (VMs) to the public cloud or start up new application VM\u2019s directly in the cloud. You can easily port VM\u2019s and other business-critical workloads back and forth to the location of your choice, all with the secure and capable foundation of vSphere.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-HBD-1681\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-HBD-1681\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1681_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1681_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -815,7 +805,7 @@
     "OpenStack with VMware vSphere and NSX",
     "VMware Integrated OpenStack (VIO) is a VMware supported OpenStack distribution prepared to run on top of an existing VMware infrastructure. VIO will empower any VMware Administrator to easily deliver and operate an Enterprise production grade OpenStack cloud on VMware components. This means that you will be able at to take advantage of all VMware vSphere great features like HA, DRS or VSAN for your OpenStack cloud and also extend and integrate it with other VMware management components like vRealize Operations and vRealize Log Insight. \u00a0 In this Hands-On-Lab we provide you with an introduction to VIO, demonstrate how it integrates with NSX and vRealize Operations and let you take the reigns in building out virtual networks with micro-segmentation while providing granular visibility and reporting.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1620\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1620\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1620_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1620_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -825,7 +815,7 @@
     "Insider Look at the Technology for How VMware Delivers Hands-On Labs",
     "This lab demonstrates the capabilities of the VMware Learning Platform (VLP). VLP is the delivery platform for all of the Hands-On Labs at VMware and VMworld. This lab starts with you as a new tenant in VLP. You will create your first lab, add it to a catalog, and delivering that lab to a subset of users. We show you how to manage content, brand the interface with your tenant brand, and then go through some of the more advanced feature sets that allow VLP to deliver labs at high scale and churn events such as VMworld. By the end of the lab you will have an advanced insider look at the tools and mechanism that VMware uses to deliver a premier Hands-On Lab environment.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-HBD-1685\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-HBD-1685\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1685_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1685_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -835,7 +825,7 @@
     "Dell Storage presents Virtual Volumes, vSphere Metro Stretched Cluster and more",
     "Learn how to easy it is to configure a Highly Available Dell Storage solution in a vSphere Metro Cluster configuration and witness Live Volume Auto-Failover technology in action.\u00a0 Get hands on with EqualLogic\u2019s full featured Virtual Volumes lab and understand what all the excitement is about. See the ease of hardware manageability that FX2 CMC provides for vSAN.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1674\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1674\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -845,7 +835,7 @@
     "Deploying Palo Alto Networks Next-Generation Security Platform with VMware NSX",
     "How do you accelerate the deployment of business-critical applications without compromising security? How do you define dynamic security policies to protect against advanced threats while keeping pace with data center virtualization? VMware and Palo Alto Networks have partnered\u00a0 to deliver a solution that combines fast provisioning of\u00a0 network and security services with next-generation security in the data center. In this lab, learn how to deploy the Palo Alto Networks virtualized next-generation firewall VM-1000-HV with VMware NSX to secure VM to VM communications.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1672\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1672\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1672_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1672_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -855,7 +845,7 @@
     "AirWatch - Introduction to Basic MDM and Console Customization",
     "In this lab, you will learn how to setup and administer Mobile Device Management with AirWatch.\u00a0 You can take modules on enrolling and configuring iOS, Android and Mac OSX devices.\u00a0 There are also modules for branding the console and creating specific administrator roles.\u00a0 Each Module can be taken by itself or you can work though all the modules in in sequence for a very complete look at the functionality of AirWatch.\u00a0 Note that a government issued ID will be required to borrow the equipment needed for this lab.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1657\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1657\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1657_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1657_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -865,7 +855,7 @@
     "vSphere with Operations Management 6: Virtualization 101",
     "This introductory lab demonstrates the core features and functions of vSphere with Operations Management including vSphere, vCenter and vRealize Operations Manager. This is an excellent place to begin your experience with VMware vSphere.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1610\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1610\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1610_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1610_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -875,7 +865,7 @@
     "VMware vCloud\u00ae Air\u2122 - Hybridity & Networking",
     "Explore VMware vCloud Air Advanced Networking Services and Hybrid Cloud Manager for a seamless cloud experience. Advanced Network Services, powered by the VMware NSX\u2122 network virtualization platform, will enable cloud administrators to achieve unprecedented security and isolation in the hybrid cloud. In this lab, you will explore the latest Advanced Network Services such as isolation with micro-segmentation, dynamic routing protocols, SSL-VPN, and Layer-7 Load Balancing. The Hybrid Cloud Manager enables secured, low downtime migrations, WAN optimization and Layer-2 Extension to vCloud Air for a seamless Hybrid Cloud experience.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-HBD-1682\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-HBD-1682\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1682_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1682_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2014 Hands-on Labs Content Catalog",
@@ -885,7 +875,7 @@
     "vCloud Suite Basic Networking",
     "This is an excellent lab to begin learning about vCloud Networking. You will use vCloud Networking and Security to deploy a DMZ network segment, a multi-tier application and a virtual firewall with context.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1423\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1423\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1423_html_en/\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1423_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -895,7 +885,7 @@
     "What's New with Virtual SAN 6.2",
     "In this lab, you will explore the new features of Virtual SAN 6.2",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1608\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1608\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1608-springrelease_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1608-springrelease_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -905,7 +895,7 @@
     "Self-service data protection using the EMC Plugin for vRealize Automation and Avamar",
     "\u201cCan I do my own backups and restores?\u201d\u00a0 Yes, yes you can.\u00a0 Learn how you can use the EMC Plugin for vRealize Automation for user level backup and file level restores of your virtual machines.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-PRT-1671\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-PRT-1671\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1671_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1671_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -915,7 +905,7 @@
     "AirWatch - Advanced MDM, Content and Horizon Integration",
     "In this lab, you will explore more advanced topics in AirWatch and take modules on enrolling and configuring iOS, Android and Mac OSX devices.\u00a0 There are also modules on using the robust API, advanced integration with Active Directory, and the new ACE programing interface.\u00a0 If you are interested in publishing content to mobile devices there is a module for that as well.\u00a0 Each Module can be taken by itself or you can work though all the modules in in sequence for a very complete look at the functionality of AirWatch.\u00a0 Note that a government issued ID will be required to borrow the equipment needed for this lab.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1658\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1658\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1658_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1658_pdf_en.pdf\">PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -925,7 +915,7 @@
     "Delivering Secure Healthcare Desktops with Horizon and NSX",
     "The is lab will focus on showing use cases in the health care vertical.  Highlights include Care Systems Analytics, EUC portion and security (NSX).",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-MBL-1661\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-MBL-1661\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1661_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1661_pdf_en.pdf\"download>PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -935,7 +925,7 @@
     "vRealize Operations Manager Standard",
     "This introductory lab demonstrates the Workload Placement and Capacity Management features of vRealize Operations Manager and is a great place to start to begin learning about these powerful capabilities.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1634\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1634\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1634_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1634_pdf_en.pdf\"download>PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -945,7 +935,7 @@
     "vRealize Log Insight",
     "This lab will investigate how to use Log Insight Dashboards and Interactive Analytics to discover to troubleshoot issues hidden in log information. It will also show you how to configure Log Insight to identify fields, generate alerts, and integrate with vRealize Operations.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1635\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1635\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1635_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1635_pdf_en.pdf\"download>PDF</a></div>"
+    ""
     ],
     [
     "2016 Hands-on Labs Content Catalog",
@@ -955,7 +945,7 @@
     "From Beginner to Advanced Features with PowerCLI",
     "This lab will introduce you to VMware vSphere PowerCLI. Novice users will easily learn to use the tool and more advanced users will get familiar with the new functionality available in the latest releases of the product like configuring an OVA before deploying it and filtering objects by their tags. Both new and experienced users are sure to learn something new!",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-SDC-1607\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-SDC-1607\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
-    "<div class=\"col-xs-12\"><a title=\"view HTML Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1607_html_en/index.html\">HTML</a></div><div class=\"col-xs-12\"><a title=\"view PDF Documentation\" class=\"btn btn-default doc-link btn-xs\" href=\"http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1607_pdf_en.pdf\"download>PDF</a></div>"
+    ""
     ]
     ],
     "modules": {
@@ -10218,28 +10208,850 @@
         }
         ]
     },
-    "assets": [
-    {
-        "sku": "HOL-CHG-1695",
-        "localizations": [
+    "assets": { 
+        "HOL-HBD-1481": [
         {
             "language": "English",
-            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695-hol_html_en/index.html",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1481_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1481_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-HBD-1482": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1482_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1482_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-HBD-1483": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1483_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1483_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-HBD-1484": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1484_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-hbd-1484_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-MBL-1451": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1451_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1451_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-MBL-1452": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1452_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1452_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-MBL-1453": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1453_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1453_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-MBL-1454": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1454_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1454_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-MBL-1455": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1455_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1455_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-MBL-1456": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1456_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1456_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-MBL-1457": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1457_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-mbl-1457_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1461": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1461_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1461_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1462": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1462_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1462_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1463": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1463_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1463_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1464": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1464_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1464_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1465": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1465_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1465_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1466": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1466_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1466_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1467": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1467_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1467_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1468": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1468_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1468_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1469": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1469_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1469_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1470": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1470_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1470_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1471": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1471_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1471_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1472": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1472_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-prt-1472_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1401": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1401_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1401_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1402": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1402_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1402_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1403": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1403_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1403_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1404": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1404_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1404_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1405": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1405_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1405_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1406": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1406_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1406_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1407": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1407_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1407_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1408": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1408_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1408_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1409": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1409_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1409_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1410": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1410_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1410_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1411": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1411_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1411_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1412": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1412_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1412_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1413": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1413_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1413_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1415": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1415_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1415_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1416": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1416_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1416_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1420": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1420_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1420_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1421": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1421_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1421_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1422": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1422_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1422_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1423": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1423_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1423_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1424": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1424_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1424_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1425": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1425_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1425_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1426": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1426_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1426_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1427": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1427_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1427_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1428": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1428_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1428_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1429": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1429_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1429_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1430": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1430_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1430_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1431": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1431_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2014/hol-sdc-1431_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-CHG-1695": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695-hol_html_en/",
             "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695-hol_pdf_en.pdf"
         },
         {
             "language": "日本語 (Japanese)",
-            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695_html_ja/",
-            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695_pdf_ja.pdf"
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695-hol_html_ja/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695-hol_pdf_ja.pdf"
         },
         {
             "language": "中文 (Chinese)",
-            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695_html_zh/",
-            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695_pdf_zh.pdf"
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695-hol_html_zh/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-chg-1695-hol_pdf_zh.pdf"
+        }
+        ],
+
+        "HOL-HBD-1681": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1681_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1681_pdf_en.pdf"
+        },
+        {
+            "language": "日本語 (Japanese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1681_html_ja/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1681_pdf_ja.pdf"
+        }
+        ],
+
+        "HOL-HBD-1682": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1682_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1682_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-HBD-1683": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1683_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1683_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-HBD-1684": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1684_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1684_pdf_en.pdf"
+        },
+        {
+            "language": "日本語 (Japanese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1684_html_ja/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1684_pdf_ja.pdf"
+        }
+        ],
+
+        "HOL-HBD-1685": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1685_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1685_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-HBD-1686": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1686_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1686_pdf_en.pdf"
+        },
+        {
+            "language": "日本語 (Japanese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1686_html_ja/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-hbd-1686_pdf_ja.pdf"
+        }
+        ],
+
+        "HOL-MBL-1651": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1651_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1651_pdf_en.pdf"
+        },
+        {
+            "language": "日本語 (Japanese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1651_html_ja/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1651_pdf_ja.pdf"
+        },
+        {
+            "language": "中文 (Chinese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1651_html_zh/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1651_pdf_zh.pdf"
+        }
+        ],
+
+        "HOL-MBL-1652": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1652_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1652_pdf_en.pdf"
+        },
+        {
+            "language": "日本語 (Japanese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1652_html_ja/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1652_pdf_ja.pdf"
+        },
+        {
+            "language": "中文 (Chinese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1652_html_zh/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1652_pdf_zh.pdf"
+        }
+        ],
+
+        "HOL-MBL-1653": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1653_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1653_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-MBL-1654": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1654_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1654_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-MBL-1655": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1655_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1655_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-MBL-1656": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1656_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1656_pdf_en.pdf"
+        },
+        {
+            "language": "日本語 (Japanese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1656_html_ja/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1656_pdf_ja.pdf"
+        }
+        ],
+
+        "HOL-MBL-1657": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1657_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1657_pdf_en.pdf"
+        },
+        {
+            "language": "日本語 (Japanese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1657_html_ja/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1657_pdf_ja.pdf"
+        }
+        ],
+
+        "HOL-MBL-1658": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1658_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1658_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-MBL-1659": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1659_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1659_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1671": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1671_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1671_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1672": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1672_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1672_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1674": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1674_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1674_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-PRT-1675": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1675_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-prt-1675_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1601": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1601_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1601_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1602": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1602_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1602_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1603": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1603_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1603_pdf_en.pdf"
+        },
+        {
+            "language": "日本語 (Japanese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1603_html_ja/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1603_pdf_ja.pdf"
+        },
+        {
+            "language": "中文 (Chinese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1603_html_zh/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1603_pdf_zh.pdf"
+        },
+        {
+            "language": "한국어 (Korean)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1603_html_ko/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1603_pdf_ko.pdf"
+        },
+        {
+            "language": "Español",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1603_html_es/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1603_pdf_es.pdf"
+        },
+        {
+            "language": "Português",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1603_html_pt/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1603_pdf_pt.pdf"
+        }
+        ],
+
+        "HOL-SDC-1604": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1604_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1604_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1605": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1605_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1605_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1606": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1606_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1606_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1608": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1608_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1608_pdf_en.pdf"
+        },
+        {
+            "language": "日本語 (Japanese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1608_html_ja/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1608_pdf_ja.pdf"
+        },
+        {
+            "language": "中文 (Chinese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1608_html_zh/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1608_pdf_zh.pdf"
+        }
+        ],
+
+        "HOL-SDC-1609": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1609_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1609_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1610": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1610_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1610_pdf_en.pdf"
+        },
+        {
+            "language": "日本語 (Japanese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1610_html_ja/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1610_pdf_ja.pdf"
+        },
+        {
+            "language": "中文 (Chinese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1610_html_zh/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1610_pdf_zh.pdf"
+        },
+        {
+            "language": "Português",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1610_html_zh/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1610_pdf_zh.pdf"
+        }
+        ],
+
+        "HOL-SDC-1611": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1611_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1611_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1613": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1613_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1613_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1620": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1620_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1620_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1621": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1621_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1621_pdf_en.pdf"
+        },
+        {
+            "language": "中文 (Chinese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1621_html_zh/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1621_pdf_zh.pdf"
+        }
+        ],
+
+        "HOL-SDC-1622": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1622_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1622_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1624": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1624_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1624_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1625": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1625_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1625_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1627": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1627_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1627_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1628": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1628_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1628_pdf_en.pdf"
+        },
+        {
+            "language": "日本語 (Japanese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1628_html_ja/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1628_pdf_ja.pdf"
+        }
+        ],
+
+        "HOL-SDC-1630": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1630_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1630_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1631": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1631_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1631_pdf_en.pdf"
+        }
+        ],
+
+        "HOL-SDC-1632": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1632_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1632_pdf_en.pdf"
         }
         ]
-    }
-    ],
+    },
     "products": [
     "AirWatch",
     "Big Data Extensions",

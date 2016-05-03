@@ -1,0 +1,1 @@
+Move asset processing to pre DataTable render. Update the data before it is added to the datatable.
