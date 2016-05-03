@@ -10792,6 +10792,14 @@
         }
         ],
 
+        "HOL-MBL-1661": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1661_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-mbl-1661_pdf_en.pdf"
+        }
+        ],
+
         "HOL-PRT-1671": [
         {
             "language": "English",
@@ -10897,6 +10905,24 @@
         }
         ],
 
+        "HOL-SDC-1607": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1607_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1607_pdf_en.pdf"
+        },
+        {
+            "language": "日本語 (Japanese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1607_html_ja/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1607_pdf_ja.pdf"
+        },
+        {
+            "language": "Português",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1607_html_pt/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1607_pdf_pt.pdf"
+        }
+        ],
+
         "HOL-SDC-1608": [
         {
             "language": "English",
@@ -10941,8 +10967,8 @@
         },
         {
             "language": "Português",
-            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1610_html_zh/",
-            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1610_pdf_zh.pdf"
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1610_html_pt/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1610_pdf_pt.pdf"
         }
         ],
 
@@ -11049,6 +11075,40 @@
             "language": "English",
             "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1632_html_en/",
             "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1632_pdf_en.pdf"
+        }
+        ],
+        
+        "HOL-SDC-1633": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1633_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1633_pdf_en.pdf"
+        }
+        ],
+        
+        "HOL-SDC-1634": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1634_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1634_pdf_en.pdf"
+        }
+        ],
+        
+        "HOL-SDC-1635": [
+        {
+            "language": "English",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1635_html_en/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1635_pdf_en.pdf"
+        },
+        {
+            "language": "日本語 (Japanese)",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1635_html_ja/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1635_pdf_ja.pdf"
+        },
+        {
+            "language": "Português",
+            "html": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1635_html_pt/",
+            "pdf": "http://www.googledrive.com/host/0BwKvJQgQjgwdfkZvYXJrVkpGYkswUTlKanlIRUFoTno1ckx3ZVFLWkJOMFUxcHgtV29od2c/HOL-2016/hol-sdc-1635_pdf_pt.pdf"
         }
         ]
     },
