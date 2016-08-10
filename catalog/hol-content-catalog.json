@@ -154,7 +154,7 @@
     "en",
     "HOL-1706-SDC-5",
     "VMware Cloud Foundation Fundamentals",
-    "In this lab, the user will gain a better understating of how EVO SDDC provides an easier way to deploy and operate a private cloud on an integrated Software Defined Data Center system.",
+    "In this lab, the user will gain a better understating of how VMware Cloud Foundation provides an easier way to deploy and operate a private cloud on an integrated Software Defined Data Center system.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1706-SDC-5\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1706-SDC-5\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
     "<center>Coming Soon</center>"
     ],
