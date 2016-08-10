@@ -2,11 +2,712 @@
     "catalogs": {
         "catalogs": [
         "2014 Hands-on Labs Content Catalog",
-        "2016 Hands-on Labs Content Catalog"
+        "2016 Hands-on Labs Content Catalog",
+        "2017 Hands-on Labs Content Catalog"
         ],
         "latestCatalog": "2016 Hands-on Labs Content Catalog"
     },
     "data": [
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vSphere Optimization Assessment",
+    "en",
+    "HOL-1701-USE-1",
+    "Introduction to the vSphere Optimization Assessment",
+    "The purpose of the lab is to demonstrate the value of the vSphere Optimization Assessment (VOA) and enable a partner engineer to deliver a successful VOA.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1701-USE-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1701-USE-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vRealize Business; vRealize Operations",
+    "en",
+    "HOL-1701-USE-2",
+    "vRealize Operations and vRealize Business: Optimize Compute Utilization",
+    "Become more efficient by optimizing compute resource utilization and improving planning and forecasting. In this lab, we will demonstrate how vRealize Operations and vRealize Business improve operational efficiency by increasing capacity utilization and resource reclamation, balancing workloads within and across clusters, allowing for better consumption tracking and visibility into the cost of resources, and streamlining capacity planning and forecasting.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1701-USE-2\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1701-USE-2\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vRealize Log Insight; vRealize Operations",
+    "en",
+    "HOL-1701-USE-3",
+    "vRealize Operations and vRealize Log Insight: Ensure Performance and Availability",
+    "In this lab we will explore how to use vRealize Operations and vRealize Log Insight to improve performance, avoid disruption, and proactively manage the Software Defined Data Center (SDDC) with integrated performance and health monitoring across compute, network, storage and applications.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1701-USE-3\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1701-USE-3\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vRealize Operations",
+    "en",
+    "HOL-1701-USE-4",
+    "vRealize Operations with Management Packs: Monitor Heterogeneous Clouds",
+    "In this lab we will introduce an example of using open and extensible 3rd party vRealize Operations management packs, Blue Medora, to demonstrate comprehensive visibility in a single console across physical, virtual, and public cloud environments.  Learn how vRealize Operations reduces complexity and increases team efficiency with a /“manager of managers/” for heterogeneous datacenter components including physical systems and other hypervisors.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1701-USE-4\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1701-USE-4\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vRealize Operations",
+    "en",
+    "HOL-1701-CHG-5",
+    "vRealize Operations Application Monitoring: Challenge Lab",
+    "The vRealize Operations Challenge Lab asks you to put on your thinking cap to save the day!  In this Challenge Lab, you will create a three Tier Application (Teleporter Application) in vRealize Operations and create Super Metrics, Policy, Dashboards and setup all resources for this Application Monitoring. We challenge you to complete this lab.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1701-CHG-5\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1701-CHG-5\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "NSX; vRealize Log Insight; vRealize Operations; vSphere",
+    "en",
+    "HOL-1703-SDC-1",
+    "VMware NSX: Introduction and Feature Tour",
+    "VMware NSX is the platform for Network Virtualization. You will gain hands-on experience with Logical Switching, Distributed Logical Routing, Dynamic Routing, Distributed Firewall and Logical Network Services. This lab introduces the core capabilities of VMware NSX in vSphere environments used to enable Network and Security virtualization.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1703-SDC-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1703-SDC-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "NSX; vCenter Server; vSphere",
+    "en",
+    "HOL-1703-USE-2",
+    "VMware NSX: Distributed Firewall with Micro-Segmentation",
+    "In this lab we will explore use cases around VMware NSX and Micro-Segmentation, including more in depth reviews of the Distributed Firewall and Service Composer UI.  Use cases include solutions around collapsing segmented networks, intelligent grouping of servers, and user based security.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1703-USE-2\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1703-USE-2\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "NSX; vRealize Log Insight; vRealize Operations",
+    "en",
+    "HOL-1703-USE-3",
+    "VMware NSX: Operations and Visibility",
+    "In this lab we will explore use case topics around Operations and Visibility in VMware NSX.  This includes reviews of dashboards specific for NSX with Log Insight and vRealize Operations.  Then using tools such as Traceflow, CentralCLI, and Flow Monitoring we will dive into operational capabilities that are apart of NSX.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1703-USE-3\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1703-USE-3\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "esxtop; vCenter Server; vSphere",
+    "en",
+    "HOL-1704-SDC-1",
+    "vSphere 6: Performance Optimization",
+    "This lab covers vSphere performance best practices and various performance related features available in vSphere 6. You will work with a broad array of solutions and tools, including VMware Labs \"Flings\" and esxtop to gauge and diagnose performance in a vSphere Environment. You will also look at vSphere features related to performance, including Network IO Control Reservations, vNUMA with Memory Hot Add, Latency Sensitivity and Power Policy Settings.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1704-SDC-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1704-SDC-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Challenge Lab; vCenter Server; vSphere",
+    "en",
+    "HOL-1704-CHG-2",
+    "vSphere 6: Challenge Lab",
+    "The vSphere 6 Challenge asks you to put on your thinking cap to save the day! Each module places you in a different fictional scenario to fix common vSphere operational and performance problems. Have you ever had a disconnected host or a VM which you could not launch remote console into? How about a mysterious poorly performing VM? In this lab, you will learn to solve these and more.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1704-CHG-2\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1704-CHG-2\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "NSX; VMware Site Recovery Manager",
+    "en",
+    "HOL-1705-SDC-1",
+    "Site Recovery Manager: Data Center Migration and Disaster Recovery",
+    "VMware availability solutions drive automation, efficiency, data protection, and validation of an organization's business continuity and disaster recovery strategy. Learn how to minimize risk and reduce downtime for  your applications and services with Site Recovery Manager (SRM) and NSX.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1705-SDC-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1705-SDC-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "NSX; vRealize Automation; vRealize Business; vRealize Code Stream; vRealize Log Insight; vRealize Operations",
+    "en",
+    "HOL-1706-SDC-1",
+    "Cloud Management Platform: Integrate vRealize and NSX",
+    "This lab walks you through integration points of vRealize Operations, vRealize Automation, NSX, vRealize Business for Cloud, and Log Insight, which can be applied to virtual, physical, and hybrid cloud environments. You will better understand how these individual components work better together, and find infrastructure management clarity can be achieved with less time, cost, and effort.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1706-SDC-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1706-SDC-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vRealize Automation; vRealize Log Insight; vRealize Operations; vSphere",
+    "en",
+    "HOL-1706-SDC-3",
+    "Secure Your Software Defined Data Center",
+    "This lab will demonstrate how as a vSphere Administrator, you can leverage components of the SDDC to reduce the overall security risk of your vSphere Environments. This will help to ensure your environment can meet security policies and enable the administrator to react to vSphere related security events.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1706-SDC-3\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1706-SDC-3\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vRealize Operations",
+    "en",
+    "HOL-1706-USE-4",
+    "vRealize Operations: Advanced Use Cases",
+    "This Lab introduces some advanced vRealize Operations topics such as crafting your Policies, working with Super Metrics and Custom Dashboards, using the Alerting framework, and creating custom Views and Reports. We will also introduce the user to End Point Operations and the vRealize Operations API.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1706-USE-4\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1706-USE-4\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "EVO SDDC",
+    "en",
+    "HOL-1706-SDC-5",
+    "VMware Cloud Foundation Fundamentals",
+    "In this lab, the user will gain a better understating of how EVO SDDC provides an easier way to deploy and operate a private cloud on an integrated Software Defined Data Center system.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1706-SDC-5\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1706-SDC-5\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "VMware Validated Design",
+    "en",
+    "HOL-1706-SDC-6",
+    "Guide to SDDC: VMware Validated Designs",
+    "In this lab, the user will focus on the fundamental architecture elements in the VMware Validated Designs (VVDs) for Software-Defined Data Center that enable a prescriptive, expert-driven approach to deploy and operate a Software-Defined Data Center with confidence. VVD architectures are production-ready solutions that target a wide range of deployment scenarios and use-cases.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1706-SDC-6\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1706-SDC-6\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "NSX; Virtual Volumes; vRealize Operations",
+    "en",
+    "HOL-1706-USE-7",
+    "SAP on VMware SDDC: Design and Management Overview",
+    "This lab demonstrates best practices for design and management of SAP on VMware SDDC infrastructure with Virtual Volumes, NSX, vRealize Operations, and VMware Adapter for SAP LVM. SAP is used as the example but these best practices also apply to other mission critical applications and database architectures.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1706-USE-7\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1706-USE-7\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Virtual SAN; vSphere",
+    "en",
+    "HOL-1708-SDC-1",
+    "Virtual SAN 6.2 from A to Z",
+    "VMware Virtual SAN (VSAN) is a radically simple, enterprise-class shared storage solution for hyper-converged infrastructure optimized for today’s all-flash performance.  In this lab you will learn how easy it is to enable VSAN and use it to store your VMs.  Also, explore VSAN's features including All-Flash configurations, deduplication and compression, RAID 5/6 erasure encoding, stretched-clustering.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1708-SDC-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1708-SDC-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Virtual SAN; Virtual Volumes; vSphere",
+    "en",
+    "HOL-1708-SDC-2",
+    "Virtual Volumes and Storage Policy Based Management",
+    "Software Defined Storage is here today.  Explore how VMware delivers a complete set of storage capabilities, available on-demand and created dynamically, using exciting new solutions such as Storage Policy Based Management (SPBM), Virtual Volumes (VVol) and Virtual SAN (VSAN).  Learn how to manage policies in this new model and deliver storage services optimized for your applications and VMs.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1708-SDC-2\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1708-SDC-2\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Virtual SAN",
+    "en",
+    "HOL-1708-CHG-3",
+    "Virtual SAN 6.2: Challenge Lab",
+    "VSAN is \"radically simple\" to setup and get going, but how about configuring it for advanced use-cases, troubleshooting performance and availability issues?  In this lab you will be challenged to optimize VSAN for stretch-cluster use cases and to recover from misconfiguration issues - learn how to troubleshoot VSAN and restore it to full health.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1708-CHG-3\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1708-CHG-3\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vCenter Server; vRealize Operations; vSphere",
+    "en",
+    "HOL-1710-SDC-1",
+    "Virtualization 101: vSphere with Operations Management",
+    "This introductory lab will explore the components and their capabilities within vSphere with Operations Management.  It will cover how to implement these in addition to basic administration topics.  This is an excellent place to begin your experience with VMware vSphere.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1710-SDC-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1710-SDC-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vCenter Server; vRealize Operations; vSphere",
+    "en",
+    "HOL-1710-USE-2",
+    "vSphere with Operations Management: Use Cases",
+    "Building on the content of HOL-1710-SDC-1, this lab explores the key features of vSphere with Operations Management and how to operationalize them.  You will learn how to deploy and manage upgrades and migrations, enhance availability, monitor and optimize workload performance, and learn how proactive analysis of logs can detect problems before they affect your workloads.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1710-USE-2\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1710-USE-2\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vCenter Server; vRealize Operations; vSphere",
+    "en",
+    "HOL-1710-SDC-3",
+    "vSphere with Operations Management: Product Deep Dive",
+    "vSphere with Operations Management adds new architecture options that can improve availability and manageability, while vRealize Operations and Log Insight provide enhanced diagnostic capability for both infrastructure and workloads.  Also see how advancements in storage and networking capabilities leave the competition generations behind!",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1710-SDC-3\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1710-SDC-3\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vCenter Server; vRealize Operations; vSphere",
+    "en",
+    "HOL-1710-USE-4",
+    "vSphere with Operations Management: Advanced Use Cases",
+    "Explore ten advanced modules that dive deeper into the exciting capabilities of vSphere with Operations Management.  A wide range of topics are covered, including Content Library, Distributed Switches, Auto Deploy, vRealize Operations, and more!",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1710-USE-4\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1710-USE-4\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vSphere; vSphere Management SDK",
+    "en",
+    "HOL-1710-SDC-5",
+    "vSphere Automation API and SDK: Tech Preview",
+    "This Lab introduces you to vSphere Automation APIs and SDKs, which are new developer friendly, simplified interfaces that allow for Virtual Machine creation, modification and deletion via a consistent set of developer and automation tooling.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1710-SDC-5\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1710-SDC-5\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "NSX; OpenStack; vRealize Log Insight; vRealize Operations",
+    "en",
+    "HOL-1720-SDC-1",
+    "VMware Integrated OpenStack and NSX",
+    "Learn how to deploy a production grade implementation of OpenStack with VMware Integrated Openstack (VIO) on vSphere. See how VIO leverages NSX to automate the creation of virtual networks with micro-segmentation and vRealize Operations to provide visibility and reporting.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1720-SDC-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1720-SDC-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "NSX; vCenter Server; vRealize Automation; vRealize Business; vRealize Operations; vRealize Orchestrator; vRealize Suite; vSphere",
+    "en",
+    "HOL-1721-USE-1",
+    "vRealize Automation 7: Basics",
+    "This introductory lab demonstrates the features of vRealize Automation and is a great place to start to begin learning about the powerful capabilities and features of the solution.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1721-USE-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1721-USE-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "NSX; vCenter Server; vRealize Automation; vRealize Business; vRealize Operations; vRealize Orchestrator; vRealize Suite; vSphere",
+    "en",
+    "HOL-1721-USE-2",
+    "vRealize Automation 7: Advanced",
+    "This advanced lab covers the more complex service authoring capabilities of vRealize Automation including XaaS and Puppet, NSX integration and Application Authoring",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1721-USE-2\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1721-USE-2\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vCenter Server; vRealize Automation; vRealize Operations; vRealize Suite; vSphere",
+    "en",
+    "HOL-1721-USE-3",
+    "vRealize Automation: Extensibility",
+    "This advanced lab explores how vRealize Automation leverages the new Event Broker to extend functionality with existing toolsets and workflows. Common extensibility scenarios include IP Address Management with Infoblox, ITSM tools, DNS and many more",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1721-USE-3\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1721-USE-3\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "DevOps; NSX; vCenter Server; vRealize Automation; vRealize Business; vRealize Code Stream; vRealize Orchestrator; vRealize Suite; vSphere",
+    "en",
+    "HOL-1721-USE-4",
+    "vRealize Automation for DevOps",
+    "Explore how to use vRealize Code Stream to orchestrate DevOps release processes and continuous application delivery. The same concepts will be then applied to the Software-Defined Data Center to move infrastructure components between environments.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1721-USE-4\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1721-USE-4\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vRealize Orchestrator; vSphere",
+    "en",
+    "HOL-1721-SDC-5",
+    "Introduction to vRealize Orchestrator",
+    "Learn how to use vRealize Orchestrator to simplify the automation of IT tasks. Explore the vRealize Orchestrator development environment and learn important development concepts by building and testing basic workflows.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1721-SDC-5\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1721-SDC-5\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "PowerCLI; vRealize Orchestrator; vSphere; Workbench IS",
+    "en",
+    "HOL-1721-SDC-6",
+    "Introduction to VMware PowerCLI",
+    "Go hands-on with VMware PowerCLI. Gain familiarity with the tool, and then dive deeper into the functionalities available in  this exciting product. Both new and experienced users are sure to learn something new.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1721-SDC-6\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1721-SDC-6\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "NSX; Palo Alto Networks",
+    "en",
+    "HOL-1723-SDC-1",
+    "Palo Alto Networks: Next-Generation Security Platform with VMware NSX",
+    "How do you accelerate the deployment of business-critical applications without compromising security? How do you define dynamic security policies to protect against advanced threats while keeping pace with data center virtualization? How do you enforce advanced security in a multi-tenant environment? VMware and Palo Alto Networks have partnered to deliver a solution that combines fast provisioning of  network and security services with next-generation security in the data center. In this lab, learn how to deploy the Palo Alto Networks virtualized next-generation firewall VM-1000-HV with VMware NSX to secure VM to VM communications.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1723-SDC-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1723-SDC-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Check Point; NSX",
+    "en",
+    "HOL-1724-SDC-1",
+    "Check Point vSEC and NSX: Advanced SDDC Security",
+    "Check Point vSEC integration with VMware NSX enables complementary, advanced security capabilities in the SDDC.  NSX DFW provides basic L2-L4 distributed firewall services while the Check Point vSEC integration enables micro-segmentation and advanced security services (L5-L7 support) including: IPS, Application Control and URL Filtering, Identity Awareness, Anti-Virus, Anti-Bot, and Threat Emulation. Additionally, Check Point Security Management enables seamlessly management of Check Point physical gateways and virtual appliances.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1724-SDC-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1724-SDC-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "NSX; vCenter Server; vSphere",
+    "en",
+    "HOL-1725-SDC-1",
+    "VMware NSX Advanced Consumption",
+    "This lab covers advanced NSX topics and builds on the basics learned in the \"VMware NSX Feature Tour (HOL-1703-SDC-1)\" lab. Attendees will extend NSX into a dual vCenter environment to experience multi-site virtual networking and security.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1725-SDC-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1725-SDC-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "NSX; vCenter Server; VMware Site Recovery Manager; vSphere",
+    "en",
+    "HOL-1725-USE-2",
+    "VMware NSX Multi-Site DR with SRM",
+    "In this lab we will cover a use case involving VMware NSX with Site Recovery Manager. In today's world disaster recovery for applications and entire datacenters is extremely difficult on the network architecture. We will show you how we solve this issue by making the network extensible across sites for an application recovery.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1725-USE-2\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1725-USE-2\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "EMC; VCE; VxRail",
+    "en",
+    "HOL-1728-SDC-1",
+    "Introduction to VxRail",
+    "VxRail, the hyper-converged infrastructure appliance from VCE/EMC and VMware, is the fastest way to stand up a fully virtualized Software Defined Data Center.  It provides simple, resilient, scalable, and cost-effective solutions for nearly every application and workload.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1728-SDC-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1728-SDC-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "NSX; vRealize Network Insight",
+    "en",
+    "HOL-1729-SDC-1",
+    "Introduction to vRealize Network Insight",
+    "In this lab you will be presented with an overview and demonstration of vRealize Network Insight. The content will focus on three use case scenarios: Plan Micro-Segmentation, Deployments, and Ensure Compliance; Optimize Network Performance Across Virtual and Physical Networks with 360 degree visibility; Ensure Health and Availability of NSX Deployments",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1729-SDC-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1729-SDC-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Cloud Native Apps; vSphere Integrated Containers",
+    "en",
+    "HOL-1730-USE-1",
+    "vSphere Integrated Containers from A to Z",
+    "This lab explores vSphere Integrated Containers (VIC) and its ability to combine the agility and application portability of Docker Linux containers with VMware's industry-leading virtual infrastructure platform - a solution that provides unique isolation advantages along with improved container manageability.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1730-USE-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1730-USE-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Cloud Native Apps; Photon",
+    "en",
+    "HOL-1730-USE-2",
+    "Cloud Operations with Photon Platform",
+    "This lab will provide an introduction into the new operational models for cloud native applications.  Users will set up a Private Cloud on the Photon Platform control plane and will deploy Cloud Applications using multiple application framework technologies, including Docker and Kubernetes.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1730-USE-2\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1730-USE-2\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Horizon 7; NSX; vCenter Server; VMware App Volumes",
+    "en",
+    "HOL-1741-USE-1",
+    "Horizon and NSX: Use Cases to Secure and Protect Healthcare",
+    "This lab will demonstrate how VMware End User Computing and NSX Security solutions can provide a customized healthcare desktop experience, doing so while maximizing operational efficiencies and security leveraging pure stateless VDI.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1741-USE-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1741-USE-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Horizon 7",
+    "en",
+    "HOL-1751-MBL-1",
+    "Introduction to Horizon 7: Virtual Desktop and Apps",
+    "Attendees will learn about the new features in Horizon 7 focusing on when and how to use Blast, the best use cases for Instant Clone, new enhancements to Cloud Pod Architecture, and the benefits of Smart Policies, Access Point 2.5 Integration, Desktop Pool Deletion, URL Redirection, True SSO with VMware Identity Manager, URL Content Redirection for Windows Horizon 7, and Horizon 7 for Linux Desktops.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1751-MBL-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1751-MBL-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Horizon 7; VMware App Volumes",
+    "en",
+    "HOL-1751-MBL-2",
+    "Horizon 7: Application Delivery",
+    "Attendees will gain an understanding of Application Delivery with App Volumes by presenting an AppStack to a VDI desktop, AppStacks in RDSH and Merging AppStacks. Also understand how URL Redirection is used to intercept and redirect a file from a virtual desktop to the client endpoint.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1751-MBL-2\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1751-MBL-2\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Horizon 7; Horizon FLEX; VMware User Environment Manager",
+    "en",
+    "HOL-1751-MBL-3",
+    "Horizon 7 Suite: Extend Your Value",
+    "Attendees will gain knowledge of the value of the components in the Horizon 7 Suite by learning about Mirage for physical desktop management, Horizon FLEX to serve BYO users, the configuration of User Environment Manager for simplified end-user profile management, and Smart Policies to deliver real-time policy-based management.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1751-MBL-3\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1751-MBL-3\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Horizon 7; VMware View Planner; vRealize Operations for Horizon",
+    "en",
+    "HOL-1751-MBL-4",
+    "Horizon 7: Architecture and Performance",
+    "Attendees will go into the architecture and performance of Horizon 7 by looking at Virtual SAN technology for Virtual Desktops, Overview of vRealize Manager for Horizon looking at Horizon specific dashboards, Working with Instant Clone technology for just-in-time desktop delivery in Horizon 7, using the View Planner Tool for sizing VDI deployments, and Optimizing Windows Images with VMware OS Optimization Tool.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1751-MBL-4\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1751-MBL-4\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Blast; Horizon 7; VMware Identity Manager",
+    "en",
+    "HOL-1751-MBL-5",
+    "Horizon 7: End to End Security",
+    "Attendees will get an overview of the end to end security features in Horizon 7 with additional choice and flexibility with Blast Extreme display technology, Access Point for secure remote access, Horizon 7 SSL Certs and VMware Identity Manager for True SSO end-to-end login experience.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1751-MBL-5\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1751-MBL-5\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Horizon 7; NSX",
+    "en",
+    "HOL-1751-MBL-6",
+    "Horizon 7: Advanced Concepts",
+    "Attendee will gain insight into the advanced concepts of Horizon 7 with Linux Desktop support and the architecture of NSX for Horizon.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1751-MBL-6\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1751-MBL-6\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Horizon 7; ThinApp; VMware App Volumes; VMware Identity Manager; Workspace ONE",
+    "en",
+    "HOL-1753-MBL-1",
+    "VMware Identity Manager 2.6: Application Management and Delivery",
+    "Learn how VMware Identity Manager is configured and utilized for delivering applications and desktop securely through a single sign-on solution to provide a simple, secure experience for users no matter where they are or what applications they need access to. In this lab, attendees will specifically learn about configuration of Indentity Manager, integration with Horizon, ThinApp, SaaS Web apps, and AirWatch.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1753-MBL-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1753-MBL-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Mirage; ThinApp; VMware App Volumes",
+    "en",
+    "HOL-1753-MBL-2",
+    "User Applications: Delivery and Lifecycle Management",
+    "Attendees will get an overview of VMware App Volumes, ThinApp, and Mirage. Additionally, attendees can learn how to utilize App Volumes, ThinApp, and Mirage to capture, deliver, deploy, manage, and update applications. ",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1753-MBL-2\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1753-MBL-2\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Horizon 7; ThinApp; VMware App Volumes; VMware Identity Manager; Workspace ONE",
+    "en",
+    "HOL-1753-USE-3",
+    "VMware Identity Manager and Application Delivery: Use Cases",
+    "",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1753-USE-3\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1753-USE-3\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Horizon FLEX",
+    "en",
+    "HOL-1755-MBL-1",
+    "Horizon FLEX from A to Z",
+    "This lab will provide an understanding on how VMware Horizon FLEX can help I.T. manage security while allowing the convenience of BYO and temporary mobile users.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1755-MBL-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1755-MBL-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Horizon Air",
+    "en",
+    "HOL-1756-MBL-1",
+    "Horizon Air from A to Z",
+    "This lab will introduce you to desktop as a service (DaaS). Through hands-on exercises, you will learn how DaaS goes beyond typical virtual desktop infrastructure (VDI), and work closely with VMware Horizon Air, the market leading offering.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1756-MBL-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1756-MBL-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "VMware AirWatch",
+    "en",
+    "HOL-1757-MBL-1",
+    "Introduction to VMware AirWatch",
+    "New to managing mobile devices? Not sure what EMM/MDM really is? Find out how to enable your organization with the power of mobility by starting with the basics. You will have the opportunity to log in to the AirWatch console as an administrator and create a device policy. Then get hands on with an iPad (either yours or one provided by the lab staff at major VMware events) and enroll the device into your newly configured environment! To wrap up, you will remotely wipe the enterprise settings from the device leaving any private/personal data completely intact!",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1757-MBL-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1757-MBL-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "VMware AirWatch",
+    "en",
+    "HOL-1757-MBL-2",
+    "Advanced VMware AirWatch",
+    "If you have familiarity with EMM but haven’t spent much time in the AirWatch console, this is a good place to start. In this lab you will learn how to integrate AirWatch with Active Directory to allow users to enroll with their AD accounts. Diving even deeper, we will also walk through how to configure your PKI with AirWatch, allowing you to issue trusted certificates to mobile devices securely. These certificates can then be used to authenticate to WiFi, VPN, Email and other internal servers eliminating the need for entering username and password to authenticate or enabling two-factor authentication!",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1757-MBL-2\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1757-MBL-2\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "VMware AirWatch; VMware Identity Manager; Workspace One",
+    "en",
+    "HOL-1757-MBL-3",
+    "VMware AirWatch: Workspace ONE, Single Sign-on and VMware Identity Manager",
+    "Looking for the latest on the VMware Workspace ONE solution? This lab will walk you through integrating AirWatch and Workspace ONE to enable SSO from any device to any application. For this lab we start by configuring the integration in the different consoles and finish up by seeing the SSO in action to a cloud application server.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1757-MBL-3\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1757-MBL-3\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Boxer; VMware AirWatch",
+    "en",
+    "HOL-1757-MBL-4",
+    "VMware AirWatch: Email Integration",
+    "Is your organization ready for a better email client? This lab walks you through deploying VMware Boxer to your workforce. Boxer is the highest rated email client in the App Store and is now enterprise ready. Get hands on with the AirWatch console to configure Boxer as an enterprise application, enroll a device and see for yourself what the next evolution in mobile productivity looks like!",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1757-MBL-4\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1757-MBL-4\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "VMware AirWatch",
+    "en",
+    "HOL-1757-MBL-5",
+    "VMware AirWatch: Mobile App Management and App Development",
+    "Is your business building its own applications? Take this lab to get a deep dive into AirWatch App Shield. You will get hands on with the AirWatch SDK and the AirWatch API. Learn how to build and deploy your internally developed applications to be MDM management ready and lessen the burden on your development teams!",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1757-MBL-5\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1757-MBL-5\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "VMware AirWatch",
+    "en",
+    "HOL-1757-MBL-6",
+    "VMware AirWatch: Technology Partner Integration",
+    "AirWatch has native integration with many other technology vendors. This lab introduces you to a few of the different partner integrations available in AirWatch. Visit the AirWatch Marketplace to learn about all of the available integrations!",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1757-MBL-6\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1757-MBL-6\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "F5; Horizon 7; Mirage; VMware App Volumes",
+    "en",
+    "HOL-1759-MBL-1",
+    "F5 Integration with VMware Horizon Suite",
+    "This hands on lab will explore the use case for load balancing and the advantages of the F5 solution with VMware Mobility Solutions. You will perform the initial configuration of the F5 BIG-IP, configure high availability of the appliances, and integrate the BIG-IP with VMware Horizon 7, VMware App Volumes, VMware Mirage and VMware Identity Manager.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1759-MBL-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1759-MBL-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "F5; Horizon 7",
+    "en",
+    "HOL-1759-USE-3",
+    "Horizon 7: Load Balancing",
+    "In this lab, a F5 BIG-IP appliance will be configured to load balance authentication and authorization connections across a pool of Horizon Connection Servers, Security Servers and Access Points.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1759-USE-3\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1759-USE-3\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "F5; Mirage; VMware App Volumes; VMware Identity Manager",
+    "en",
+    "HOL-1759-USE-4",
+    "Identity Manager, App Volumes and Mirage: Load Balancing",
+    "In this lab a F5 BIG-IP appliance will be configured to load balance authentication and authorization connections across multiple Horizon Suite products. These products include: VMware Identity Manager, VMware Mirage and VMware AppVolumes.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1759-USE-4\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1759-USE-4\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Hybrid Cloud Manager; HyTrust; vCloud Air; vSphere",
+    "en",
+    "HOL-1781-HBD-1",
+    "VMware vCloud Air: Jump Start for vSphere Admins",
+    "vCloud Air is a public cloud platform built on the trusted foundation of vSphere, compatible with your on-premises data center. vCloud Air allows you to extend your workloads into the cloud with ease. You can migrate existing onsite virtual machines (VMs) to the public cloud or start up new application VM’s directly in the cloud. You can easily port VM’s and other business-critical workloads back and forth to the location of your choice, all with the secure and capable foundation of vSphere. This lab also includes technology from our partner HyTrust. HyTrust DataControl provides encryption and key management designed specifically to address the unique requirements of private, hybrid and public clouds including vCloud Air. It keeps data on virtual machines secure.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1781-HBD-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1781-HBD-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Hybrid Cloud Manager; NSX; vCloud Air",
+    "en",
+    "HOL-1782-HBD-1",
+    "VMware vCloud Air: Data Center Extension",
+    "Explore VMware vCloud Air Advanced Network Services and Hybrid Cloud Manager for a seamless cloud experience. Advanced Network Services, powered by the VMware NSX™ network virtualization platform will enable cloud administrators to achieve unprecedented security and isolation in the hybrid cloud. In this lab, you will explore the latest Hybrid Cloud Manager that enables a secured, low downtime migrations from WAN optimization and Layer-2 Extension to vCloud Air for a seamless Hybrid Cloud experience. Today, virtualized networking allows the physical network configurations to be replicated using software. VMware vCloud Air facilitates Advanced Networking Services such as isolation with micro-segmentation, dynamic routing protocols, SSL-VPN, and Layer-7 Load Balancing. Network architectures can be recreated for cloud use, including generating a Hybrid DMZ.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1782-HBD-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1782-HBD-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "PowerCLI; vCloud Air; vRealize Automation; vRealize Operations",
+    "en",
+    "HOL-1783-HBD-1",
+    "VMware vCloud Air: Manage Your Cloud",
+    "VMware vCloud Air can be managed through multiple solutions depending on your needs and requirements. In this lab we will look at how we can connect to our vCloud Air environment through the vRealize Cloud Management Platform, utilizing the power of vRealize Automation to provision and manage workloads running in vCloud Air. We will also look at how we can use PowerCLI to automate tasks in vCloud Air. Finally we will show how vRealize Operations can be used to operate and manage our vCloud Air environment",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1783-HBD-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1783-HBD-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vCloud Air; vRealize Orchestrator; vSphere",
+    "en",
+    "HOL-1784-HBD-1",
+    "VMware vCloud Air: Disaster Recovery",
+    "VMware vCloud® Air Disaster Recovery is a recovery-as-a-service (RaaS) solution that offers VMware vSphere customers the ability to protect their on-site business and mission-critical workloads and recover them in the cloud in the event of a disaster or disruptive event. Key features include: Self-service disaster recovery protection with failover and failback workﬂows per virtual machine, Recovery point objectives (RPO) from 15 minutes to 24 hours, Multiple point-in time snapshots to revert to previous known states, Runbook creation for failover workﬂow plan possible using vRealize Orchestrator plug-in, Elastic cloud compute and storage capacity, Support for offline data seeding, and Unlimited quantity of failover testing",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1784-HBD-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1784-HBD-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vCloud Director; VMware Learning Platform",
+    "en",
+    "HOL-1785-HBD-1",
+    "VMware Learning Platform: Deliver Your Own Hands-On Labs",
+    "Did you ever wonder how we deliver so may high quality labs to so many people? VMware Learning Platform is a complete learning environment that integrates instructional materials, virtual machines, video, social media and more. This lab will walk you through using the platform to deliver your own content to your own students. We have modules that cover various scenarios and solutions for you to explore. This lab gives you an early preview of technology that could be available to you in the future.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1785-HBD-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1785-HBD-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vCloud Network Functions Virtualization",
+    "en",
+    "HOL-1786-USE-1",
+    "vCloud Network Functions Virtualization",
+    "VMware vCloud NFV is a Network Functions Virtualization (NFV) services delivery, operations and management platform, developed for Communications Service Providers (CSPs). For this lab we have partnered with Cloudify and Athonet. We will demonstrate the end-to-end lifecycle of VNF management and orchestration – from installation and deployment through post-deployment, or in the telco industry terminology - Day 0 through Day 2 support.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1786-USE-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1786-USE-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "IBM Softlayer; vCloud Director",
+    "en",
+    "HOL-1787-USE-1",
+    "VMware vCloud Director for Service Providers: Build IaaS Platforms",
+    "VMware vCloud Director for Service Providers helps to build a simplified IaaS (Infrastructure as a Service) platform to offer services using Virtual Data Centers on top of VMware vSphere. In this lab you will learn how to utilize existing vSphere components to pool together Compute, Storage and Networking resources and convert them into a service offering for your tenants. You will also see how IBM Softlayer, a vCloud Air Network Partner, is delivering solutions to customers today!",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1787-USE-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1787-USE-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Challenge Lab; vRealize Automation; vRealize Log Insight; vRealize Orchestrator",
+    "en",
+    "HOL-1790-CHG-1",
+    "vRealize Automation: Challenge Lab",
+    "The vRealize Automation Challenge lab will put your knowledge to the test! Each challenge module provides a scenario in which you must fix common problems that cloud administrators and integration engineers might face. Try it and leave a little wiser!",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1790-CHG-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1790-CHG-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "Challenge Lab; Horizon 7; ThinApp; VMware App Volumes; VMware User Environment Manager; vRealize Operations for Horizon",
+    "en",
+    "HOL-1791-CHG-1",
+    "Horizon 7: Challenge Lab",
+    "The Horizon Challenge Lab will provide you the ability to troubleshoot and resolve the Top 5 issues that our Customers experience in their End User Environments. Whether you have deployed VMware App Volumes, VMware Identity Manager, VMware User Environment Manager or VMware Horizon 7, we have Challenge for each and everyone of you.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1791-CHG-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1791-CHG-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    "<center>Coming Soon</center>"
+    ],
     [
     "2014 Hands-on Labs Content Catalog",
     "",
