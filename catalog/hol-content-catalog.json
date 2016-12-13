@@ -31,7 +31,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "vRealize Log Insight; vRealize Operations",
-    "en",
+    "en,ja,zh",
     "HOL-1701-USE-3",
     "vRealize Operations and vRealize Log Insight: Ensure Performance and Availability",
     "In this lab we will explore how to use vRealize Operations and vRealize Log Insight to improve performance, avoid disruption, and proactively manage the Software Defined Data Center (SDDC) with integrated performance and health monitoring across compute, network, storage and applications.",
@@ -51,7 +51,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "vRealize Operations",
-    "en",
+    "en,ja",
     "HOL-1701-CHG-5",
     "vRealize Operations Application Monitoring: Challenge Lab",
     "The vRealize Operations Challenge Lab asks you to put on your thinking cap to save the day!  In this Challenge Lab, you will create a three Tier Application (Teleporter Application) in vRealize Operations and create Super Metrics, Policy, Dashboards and setup all resources for this Application Monitoring. We challenge you to complete this lab.",
@@ -61,7 +61,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "NSX; vRealize Log Insight; vRealize Operations; vSphere",
-    "en",
+    "en,ja,zh,es,pt",
     "HOL-1703-SDC-1",
     "VMware NSX: Introduction and Feature Tour",
     "VMware NSX is the platform for Network Virtualization. You will gain hands-on experience with Logical Switching, Distributed Logical Routing, Dynamic Routing, Distributed Firewall and Logical Network Services. This lab introduces the core capabilities of VMware NSX in vSphere environments used to enable Network and Security virtualization.",
@@ -71,7 +71,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "NSX; vCenter Server; vSphere",
-    "en",
+    "en,ja,zh",
     "HOL-1703-USE-2",
     "VMware NSX: Distributed Firewall with Micro-Segmentation",
     "In this lab we will explore use cases around VMware NSX and Micro-Segmentation, including more in depth reviews of the Distributed Firewall and Service Composer UI.  Use cases include solutions around collapsing segmented networks, intelligent grouping of servers, and user based security.",
@@ -81,17 +81,27 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "NSX; vRealize Log Insight; vRealize Operations",
-    "en",
+    "en,ja",
     "HOL-1703-USE-3",
     "VMware NSX: Operations and Visibility",
     "In this lab we will explore use case topics around Operations and Visibility in VMware NSX.  This includes reviews of dashboards specific for NSX with Log Insight and vRealize Operations.  Then using tools such as Traceflow, CentralCLI, and Flow Monitoring we will dive into operational capabilities that are apart of NSX.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1703-USE-3\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1703-USE-3\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
     ""
     ],
+	    [
+    "2017 Hands-on Labs Content Catalog",
+    "NSX",
+    "en",
+    "HOL-1703-SDC-4",
+    "VMware NSX: Installation and Configuration",
+    "In this Hands-on Labs Interactive Simulation, you will walk through the installation and configuration of NSX Manager.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1703-SDC-4\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1703-SDC-4\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    ""
+    ],
     [
     "2017 Hands-on Labs Content Catalog",
     "esxtop; vCenter Server; vSphere",
-    "en",
+    "en,ja",
     "HOL-1704-SDC-1",
     "vSphere 6: Performance Optimization",
     "This lab covers vSphere performance best practices and various performance related features available in vSphere 6. You will work with a broad array of solutions and tools, including VMware Labs \"Flings\" and esxtop to gauge and diagnose performance in a vSphere Environment. You will also look at vSphere features related to performance, including Network IO Control Reservations, vNUMA with Memory Hot Add, Latency Sensitivity and Power Policy Settings.",
@@ -101,7 +111,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "Challenge Lab; vCenter Server; vSphere",
-    "en",
+    "en,ja,zh",
     "HOL-1704-CHG-2",
     "vSphere 6: Challenge Lab",
     "The vSphere 6 Challenge asks you to put on your thinking cap to save the day! Each module places you in a different fictional scenario to fix common vSphere operational and performance problems. Have you ever had a disconnected host or a VM which you could not launch remote console into? How about a mysterious poorly performing VM? In this lab, you will learn to solve these and more.",
@@ -121,7 +131,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "NSX; vRealize Automation; vRealize Business; vRealize Code Stream; vRealize Log Insight; vRealize Operations",
-    "en",
+    "en,ja",
     "HOL-1706-SDC-1",
     "Cloud Management Platform: Integrate vRealize and NSX",
     "This lab walks you through integration points of vRealize Operations, vRealize Automation, NSX, vRealize Business for Cloud, and Log Insight, which can be applied to virtual, physical, and hybrid cloud environments. You will better understand how these individual components work better together, and find infrastructure management clarity can be achieved with less time, cost, and effort.",
@@ -141,7 +151,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "vRealize Operations",
-    "en",
+    "en,ja",
     "HOL-1706-USE-4",
     "vRealize Operations: Advanced Use Cases",
     "This Lab introduces some advanced vRealize Operations topics such as crafting your Policies, working with Super Metrics and Custom Dashboards, using the Alerting framework, and creating custom Views and Reports. We will also introduce the user to End Point Operations and the vRealize Operations API.",
@@ -150,8 +160,8 @@
     ],
     [
     "2017 Hands-on Labs Content Catalog",
-    "VMware Cloud Foundation",
-    "en",
+    "IBM Softlayer; VMware Cloud Foundation",
+    "en,zh",
     "HOL-1706-SDC-5",
     "VMware Cloud Foundation Fundamentals",
     "In this lab, the user will gain a better understating of how VMware Cloud Foundation provides an easier way to deploy and operate a private cloud on an integrated Software Defined Data Center system.",
@@ -181,7 +191,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "Virtual SAN; vSphere",
-    "en,es,pt",
+    "en,ja,zh,es,pt,ko",
     "HOL-1708-SDC-1",
     "Virtual SAN 6.2 from A to Z",
     "VMware Virtual SAN (VSAN) is a radically simple, enterprise-class shared storage solution for hyper-converged infrastructure optimized for today’s all-flash performance.  In this lab you will learn how easy it is to enable VSAN and use it to store your VMs.  Also, explore VSAN's features including All-Flash configurations, deduplication and compression, RAID 5/6 erasure encoding, stretched-clustering.",
@@ -201,7 +211,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "Virtual SAN; Challenge Lab",
-    "en",
+    "en,ja,zh",
     "HOL-1708-CHG-3",
     "Virtual SAN 6.2: Challenge Lab",
     "VSAN is \"radically simple\" to setup and get going, but how about configuring it for advanced use-cases, troubleshooting performance and availability issues?  In this lab you will be challenged to optimize VSAN for stretch-cluster use cases and to recover from misconfiguration issues - learn how to troubleshoot VSAN and restore it to full health.",
@@ -271,7 +281,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "NSX; OpenStack; vRealize Log Insight; vRealize Operations",
-    "en",
+    "en,ja",
     "HOL-1720-SDC-1",
     "VMware Integrated OpenStack and NSX",
     "Learn how to deploy a production grade implementation of OpenStack with VMware Integrated Openstack (VIO) on vSphere. See how VIO leverages NSX to automate the creation of virtual networks with micro-segmentation and vRealize Operations to provide visibility and reporting.",
@@ -290,8 +300,8 @@
     ],
     [
     "2017 Hands-on Labs Content Catalog",
-    "NSX; vCenter Server; vRealize Automation; vRealize Business; vRealize Operations; vRealize Orchestrator; vRealize Suite; vSphere",
-    "en",
+    "NSX; Puppet Labs; vCenter Server; vRealize Automation; vRealize Business; vRealize Operations; vRealize Orchestrator; vRealize Suite; vSphere",
+    "en,zh",
     "HOL-1721-USE-2",
     "vRealize Automation 7: Advanced",
     "This advanced lab covers the more complex service authoring capabilities of vRealize Automation including XaaS and Puppet, NSX integration and Application Authoring",
@@ -300,7 +310,7 @@
     ],
     [
     "2017 Hands-on Labs Content Catalog",
-    "vCenter Server; vRealize Automation; vRealize Operations; vRealize Suite; vSphere",
+    "Infoblox; vCenter Server; vRealize Automation; vRealize Operations; vRealize Suite; vSphere",
     "en",
     "HOL-1721-USE-3",
     "vRealize Automation: Extensibility",
@@ -351,7 +361,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "Check Point; NSX",
-    "en",
+    "en,ja",
     "HOL-1724-SDC-1",
     "Check Point vSEC and NSX: Advanced SDDC Security",
     "Check Point vSEC integration with VMware NSX enables complementary, advanced security capabilities in the SDDC.  NSX DFW provides basic L2-L4 distributed firewall services while the Check Point vSEC integration enables micro-segmentation and advanced security services (L5-L7 support) including: IPS, Application Control and URL Filtering, Identity Awareness, Anti-Virus, Anti-Bot, and Threat Emulation. Additionally, Check Point Security Management enables seamlessly management of Check Point physical gateways and virtual appliances.",
@@ -361,7 +371,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "NSX; vCenter Server; vSphere",
-    "en",
+    "en,ja",
     "HOL-1725-SDC-1",
     "VMware NSX Advanced Consumption",
     "This lab covers advanced NSX topics and builds on the basics learned in the \"VMware NSX Feature Tour (HOL-1703-SDC-1)\" lab. Attendees will extend NSX into a dual vCenter environment to experience multi-site virtual networking and security.",
@@ -371,7 +381,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "NSX; vCenter Server; VMware Site Recovery Manager; vSphere",
-    "en",
+    "en,zh",
     "HOL-1725-USE-2",
     "VMware NSX Multi-Site DR with SRM",
     "In this lab we will cover a use case involving VMware NSX with Site Recovery Manager. In today's world disaster recovery for applications and entire datacenters is extremely difficult on the network architecture. We will show you how we solve this issue by making the network extensible across sites for an application recovery.",
@@ -381,7 +391,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "EMC; VCE; VxRail",
-    "en",
+    "en,ja",
     "HOL-1728-SDC-1",
     "Introduction to VxRail",
     "VxRail, the hyper-converged infrastructure appliance from VCE/EMC and VMware, is the fastest way to stand up a fully virtualized Software Defined Data Center.  It provides simple, resilient, scalable, and cost-effective solutions for nearly every application and workload.",
@@ -420,8 +430,8 @@
     ],
     [
     "2017 Hands-on Labs Content Catalog",
-    "Horizon 7; NSX; vCenter Server; VMware App Volumes",
-    "en",
+    "Check Point; Horizon 7; NSX; vCenter Server; VMware App Volumes",
+    "en,ja",
     "HOL-1741-USE-1",
     "Horizon and NSX: Use Cases to Secure and Protect Healthcare",
     "This lab will demonstrate how VMware End User Computing and NSX Security solutions can provide a customized healthcare desktop experience, doing so while maximizing operational efficiencies and security leveraging pure stateless VDI.",
@@ -431,7 +441,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "Horizon 7",
-    "en",
+    "en,ja,zh",
     "HOL-1751-MBL-1",
     "Introduction to Horizon 7: Virtual Desktop and Apps",
     "Attendees will learn about the new features in Horizon 7 focusing on when and how to use Blast, the best use cases for Instant Clone, new enhancements to Cloud Pod Architecture, and the benefits of Smart Policies, Access Point 2.5 Integration, Desktop Pool Deletion, URL Redirection, True SSO with VMware Identity Manager, URL Content Redirection for Windows Horizon 7, and Horizon 7 for Linux Desktops.",
@@ -441,7 +451,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "Horizon 7; VMware App Volumes",
-    "en",
+    "en,ja",
     "HOL-1751-MBL-2",
     "Horizon 7: Application Delivery",
     "Attendees will gain an understanding of Application Delivery with App Volumes by presenting an AppStack to a VDI desktop, AppStacks in RDSH and Merging AppStacks. Also understand how URL Redirection is used to intercept and redirect a file from a virtual desktop to the client endpoint.",
@@ -451,7 +461,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "Horizon 7; Horizon FLEX; VMware User Environment Manager",
-    "en",
+    "en,ja",
     "HOL-1751-MBL-3",
     "Horizon 7 Suite: Extend Your Value",
     "Attendees will gain knowledge of the value of the components in the Horizon 7 Suite by learning about Mirage for physical desktop management, Horizon FLEX to serve BYO users, the configuration of User Environment Manager for simplified end-user profile management, and Smart Policies to deliver real-time policy-based management.",
@@ -461,7 +471,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "Horizon 7; VMware View Planner; vRealize Operations for Horizon",
-    "en",
+    "en,ja",
     "HOL-1751-MBL-4",
     "Horizon 7: Architecture and Performance",
     "Attendees will go into the architecture and performance of Horizon 7 by looking at Virtual SAN technology for Virtual Desktops, Overview of vRealize Manager for Horizon looking at Horizon specific dashboards, Working with Instant Clone technology for just-in-time desktop delivery in Horizon 7, using the View Planner Tool for sizing VDI deployments, and Optimizing Windows Images with VMware OS Optimization Tool.",
@@ -471,7 +481,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "Blast; Horizon 7; VMware Identity Manager",
-    "en",
+    "en,ja",
     "HOL-1751-MBL-5",
     "Horizon 7: End to End Security",
     "Attendees will get an overview of the end to end security features in Horizon 7 with additional choice and flexibility with Blast Extreme display technology, Access Point for secure remote access, Horizon 7 SSL Certs and VMware Identity Manager for True SSO end-to-end login experience.",
@@ -501,7 +511,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "Mirage; ThinApp; VMware App Volumes",
-    "en",
+    "en,zh",
     "HOL-1753-MBL-2",
     "User Applications: Delivery and Lifecycle Management",
     "Attendees will get an overview of VMware App Volumes, ThinApp, and Mirage. Additionally, attendees can learn how to utilize App Volumes, ThinApp, and Mirage to capture, deliver, deploy, manage, and update applications. ",
@@ -511,7 +521,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "Horizon FLEX",
-    "en",
+    "en,zh",
     "HOL-1755-MBL-1",
     "Horizon FLEX from A to Z",
     "This lab will provide an understanding on how VMware Horizon FLEX can help I.T. manage security while allowing the convenience of BYO and temporary mobile users.",
@@ -521,7 +531,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "Horizon Air",
-    "en",
+    "en,ja",
     "HOL-1756-MBL-1",
     "Horizon Air from A to Z",
     "This lab will introduce you to desktop as a service (DaaS). Through hands-on exercises, you will learn how DaaS goes beyond typical virtual desktop infrastructure (VDI), and work closely with VMware Horizon Air, the market leading offering.",
@@ -531,7 +541,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "VMware AirWatch",
-    "en",
+    "en,ja,zh",
     "HOL-1757-MBL-1",
     "Introduction to VMware AirWatch",
     "New to managing mobile devices? Not sure what EMM/MDM really is? Find out how to enable your organization with the power of mobility by starting with the basics. You will have the opportunity to log in to the AirWatch console as an administrator and create a device policy. Then get hands on with an iPad (either yours or one provided by the lab staff at major VMware events) and enroll the device into your newly configured environment! To wrap up, you will remotely wipe the enterprise settings from the device leaving any private/personal data completely intact!",
@@ -551,7 +561,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "VMware AirWatch; VMware Identity Manager; Workspace ONE",
-    "en,es,pt",
+    "en,ja,zh,es,pt",
     "HOL-1757-MBL-3",
     "VMware AirWatch: Workspace ONE, Single Sign-on and VMware Identity Manager",
     "Looking for the latest on the VMware Workspace ONE solution? This lab will walk you through integrating AirWatch and Workspace ONE to enable SSO from any device to any application. For this lab we start by configuring the integration in the different consoles and finish up by seeing the SSO in action to a cloud application server.",
@@ -691,7 +701,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "Challenge Lab; vRealize Automation; vRealize Log Insight; vRealize Orchestrator",
-    "en",
+    "en,ja",
     "HOL-1790-CHG-1",
     "vRealize Automation: Challenge Lab",
     "The vRealize Automation Challenge lab will put your knowledge to the test! Each challenge module provides a scenario in which you must fix common problems that cloud administrators and integration engineers might face. Try it and leave a little wiser!",
@@ -701,7 +711,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "Challenge Lab; Horizon 7; ThinApp; VMware App Volumes; VMware User Environment Manager; vRealize Operations for Horizon",
-    "en",
+    "en,ja",
     "HOL-1791-CHG-1",
     "Horizon 7: Challenge Lab",
     "The Horizon Challenge Lab will provide you the ability to troubleshoot and resolve the Top 5 issues that our Customers experience in their End User Environments. Whether you have deployed VMware App Volumes, VMware Identity Manager, VMware User Environment Manager or VMware Horizon 7, we have Challenge for each and everyone of you.",
@@ -1530,7 +1540,7 @@
     ],
     [
     "2016 Hands-on Labs Content Catalog",
-    "",
+    "NSX",
     "en",
     "HOL-PRT-1672",
     "Deploying Palo Alto Networks Next-Generation Security Platform with VMware NSX",
@@ -1580,7 +1590,7 @@
     ],
     [
     "2016 Hands-on Labs Content Catalog",
-    "",
+    "Virtual SAN",
     "en,ja,zh",
     "HOL-SDC-1608",
     "What's New with Virtual SAN 6.2",
@@ -2024,28 +2034,13 @@
  ],
  "HOL-1703-SDC-1": [
  {
-   "Assigned Captain": "Michael Armstrong ",
-   "Draft 1 Verified": "",
-   "Draft 2 Verified": "",
-   "Final Draft Verified": "",
-   "Module Description": "In this module, we will walk through the installation of NSX from the initial deployment of the NSX Manager .ova file all the way through to deploying controllers, creating VTEP's and finally creating a Transport Zone. This is a walk-through and will make no changes to the actual lab.",
-   "Module Duration": 30,
-   "Module ID": 1,
-   "Module Level": "Beginning",
-   "Module Title": "Installation and Lab Walk-Through",
-   "Module Type": "Feature",
-   "Parent Lab SKU": "HOL-1703-SDC-1",
-   "Published": true,
-   "Review Proctor": ""
- },
- {
    "Assigned Captain": "Mostafa Magdy ",
    "Draft 1 Verified": "",
    "Draft 2 Verified": "",
    "Final Draft Verified": "",
    "Module Description": "Overview on Logical Switching In this lab you will first explore the key components of VMware NSX. The following other key aspects are covered in this module: 1) The addition of the NSX controller cluster has eliminated the requirement for multicast protocol support on the physical fabric. The controller cluster provides, among other functions, VTEP, IP and MAC resolution. 2) You will create a Logical Switch and then attach two VM's to the Logical Switch that you created. 3) Then demonstrate how the logical switch can span across L3 Physical Networks, and still have L2 connectivity between the two Web Servers. 4) Lastly, we will review the scalability and high availability of the NSX platform.",
    "Module Duration": 30,
-   "Module ID": 2,
+   "Module ID": 1,
    "Module Level": "Beginning",
    "Module Title": "Logical Switching",
    "Module Type": "Feature",
@@ -2060,7 +2055,7 @@
    "Final Draft Verified": "",
    "Module Description": "In the previous module you saw that users can create isolated logical switches/networks with few clicks. To provide communication across these isolated logical layer 2 networks, routing support is essential. In the NSX platform the distributed logical router allows you to route traffic between logical switches. One of the key differentiating feature of this logical router is that the routing capability is distributed in the hypervisor. By incorporating�this logical routing component users can reproduce complex routing topologies in the logical space. For example, in a three tier application connected to three logical switches, the routing between the tiers is handled by this distributed logical router. In this module you will demonstrate the following 1) How traffic flows when the routing is handled by an external physical router or NSX edge services gateway.  2) Then we will go through the configuration of the Logical Interfaces (LIFs) on the Logical router and enable routing between the App and DB tiers of the Application 3) Later we will configure dynamic routing protocols across the distributed logical router and the NSX Edge services gateway. We will show how internal route advertisements to the external router are controlled. 4) Finally you will see how various routing protocols, such as ECMP, can be used to scale and protect the Edge service gateway. This module will help you understand some of the routing capabilities supported in NSX platform and also how to utilize these capabilities while deploying a three tier application.",
    "Module Duration": 60,
-   "Module ID": 3,
+   "Module ID": 2,
    "Module Level": "Beginning",
    "Module Title": "Logical Routing",
    "Module Type": "Feature",
@@ -2075,7 +2070,7 @@
    "Final Draft Verified": "",
    "Module Description": "",
    "Module Duration": 60,
-   "Module ID": 4,
+   "Module ID": 3,
    "Module Level": "Beginning",
    "Module Title": "Edge Services Gateway",
    "Module Type": "Feature",
@@ -2090,7 +2085,7 @@
    "Final Draft Verified": "",
    "Module Description": "NSX provides in-kernel software L2 Bridging capabilities, that allow organizations to seamlessly connect traditional workloads and legacy VLANs to virtualized networks. L2 Bridging is widely used in brownfield environments to simplify the introduction of logical networks, as well as other scenarios that involve physical systems that require L2 connectivity to virtual machines. This module will guide you through the configuration of a L2 Bridging instance between a traditional VLAN and a NSX Logical Switch. In NSX-V 6.2 this function has been enhanced, by allowing bridged Logical Switches to be connected to Distributed Logical Routers. This operation was not permitted in previous versions of NSX.",
    "Module Duration": 45,
-   "Module ID": 5,
+   "Module ID": 4,
    "Module Level": "Beginning",
    "Module Title": "Physical to Virtual Bridging",
    "Module Type": "Use Case",
@@ -2105,7 +2100,7 @@
    "Final Draft Verified": "",
    "Module Description": "",
    "Module Duration": 45,
-   "Module ID": 6,
+   "Module ID": 5,
    "Module Level": "Beginning",
    "Module Title": "Distributed Firewall",
    "Module Type": "Feature",
@@ -2249,6 +2244,23 @@
    "Module Title": "Central CLI",
    "Module Type": "Feature",
    "Parent Lab SKU": "HOL-1703-USE-3",
+   "Published": true,
+   "Review Proctor": ""
+ }
+ ],
+  "HOL-1703-SDC-4": [
+ {
+   "Assigned Captain": "Michael Armstrong ",
+   "Draft 1 Verified": "",
+   "Draft 2 Verified": "",
+   "Final Draft Verified": "",
+   "Module Description": "In this module, we will walk through the installation of NSX from the initial deployment of the NSX Manager .ova file all the way through to deploying controllers, creating VTEP's and finally creating a Transport Zone. This is a walk-through and will make no changes to the actual lab.",
+   "Module Duration": 15,
+   "Module ID": 1,
+   "Module Level": "Beginning",
+   "Module Title": "NSX Manager Installation and Configuration",
+   "Module Type": "Feature",
+   "Parent Lab SKU": "HOL-1703-SDC-4",
    "Published": true,
    "Review Proctor": ""
  }
@@ -16654,6 +16666,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1701-chg-5_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1701-chg-5_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1701-chg-5-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1701-chg-5-pdf_ja.pdf"
         }
         ],
 		
@@ -16688,6 +16705,16 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1701-use-3_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1701-use-3_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1701-use-3-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1701-use-3-pdf_ja.pdf"
+        },
+		{
+            "language": "中文 (Chinese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1701-use-3_html_zh/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1701-use-3_pdf_zh.pdf"
         }
         ],
 		
@@ -16704,6 +16731,26 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1703-sdc-1_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1703-sdc-1_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1703-sdc-1-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1703-sdc-1-pdf_ja.pdf"
+        },
+		{
+            "language": "Español",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1703-sdc-1-html_es/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1703-sdc-1-pdf_es.pdf"
+        },
+        {
+            "language": "Português",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1703-sdc-1-html_pt-br/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1703-sdc-1-pdf_pt-br.pdf"
+        },
+		{
+            "language": "中文 (Chinese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1703-sdc-1_html_zh/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1703-sdc-1_pdf_zh.pdf"
         }
         ],
 		
@@ -16712,6 +16759,16 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1703-use-2_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1703-use-2_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1703-use-2-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1703-use-2-pdf_ja.pdf"
+        },
+		{
+            "language": "中文 (Chinese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1703-use-2-html_zh/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1703-use-2-pdf_zh.pdf"
         }
         ],
 		
@@ -16720,14 +16777,36 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1703-use-3_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1703-use-3_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1703-use-3-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1703-use-3-pdf_ja.pdf"
         }
         ],
+		"HOL-1703-SDC-4": [
+        {
+            "language": "English",
+            "html": "http://docs.hol.vmware.com/HOL-2017/hol-1703-sdc-4_html_en/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1703-sdc-4_pdf_en.pdf"
+        }
+		],
 		
 		"HOL-1704-CHG-2": [
         {
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1704-chg-2_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1704-chg-2_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1704-chg-2-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1704-chg-2-pdf_ja.pdf"
+        },
+		{
+            "language": "中文 (Chinese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1704-chg-2_html_zh/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1704-chg-2_pdf_zh.pdf"
         }
         ],
 		
@@ -16736,6 +16815,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1704-sdc-1_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1704-sdc-1_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1704-sdc-1-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1704-sdc-1-pdf_ja.pdf"
         }
         ],
 		
@@ -16752,6 +16836,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1706-sdc-1_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1706-sdc-1_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1706-sdc-1-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1706-sdc-1-pdf_ja.pdf"
         }
         ],
 		
@@ -16768,6 +16857,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1706-sdc-5_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1706-sdc-5_pdf_en.pdf"
+        },
+		{
+            "language": "中文 (Chinese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1706-sdc-5-html_zh/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1706-sdc-5-pdf_zh.pdf"
         }
         ],
 		
@@ -16784,6 +16878,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1706-use-4_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1706-use-4_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1704-sdc-1-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1704-sdc-1-pdf_ja.pdf"
         }
         ],
 		
@@ -16800,6 +16899,16 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1708-chg-3_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1708-chg-3_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-chg-3-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-chg-3-pdf_ja.pdf"
+        },
+		{
+            "language": "中文 (Chinese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-chg-3_html_zh/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-chg-3_pdf_zh.pdf"
         }
         ],
 		
@@ -16810,9 +16919,24 @@
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1708-sdc-1_pdf_en.pdf"
         },
 		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-sdc-1-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-sdc-1-pdf_ja.pdf"
+        },
+		{
+            "language": "中文 (Chinese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-sdc-1_html_zh/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-sdc-1_pdf_zh.pdf"
+        },
+		{
             "language": "Español",
             "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-sdc-1-html_es/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-sdc-1-pdf_es.pdf"
+        },
+				{
+            "language": "한국어 (Korean)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-sdc-1-html_ko/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-sdc-1-pdf_ko.pdf"
         },
         {
             "language": "Português",
@@ -16852,6 +16976,13 @@
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1710-sdc-5_pdf_en.pdf"
         }
         ],
+		"HOL-1710-SDC-6": [
+        {
+            "language": "English",
+            "html": "http://docs.hol.vmware.com/HOL-2017/hol-1710-sdc-6_html_en/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1710-sdc-6_pdf_en.pdf"
+        }
+        ],
 		
 		"HOL-1710-USE-2": [
         {
@@ -16874,6 +17005,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1720-sdc-1_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1720-sdc-1_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1720-sdc-1-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1720-sdc-1-pdf_ja.pdf"
         }
         ],
 		
@@ -16906,6 +17042,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1721-use-2_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1721-use-2_pdf_en.pdf"
+        },
+		{
+            "language": "中文 (Chinese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1721-use-2_html_zh/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1721-use-2_pdf_zh.pdf"
         }
         ],
 		
@@ -16938,6 +17079,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1724-sdc-1_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1724-sdc-1_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1724-sdc-1-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1724-sdc-1-pdf_ja.pdf"
         }
         ],
 		
@@ -16946,6 +17092,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1725-sdc-1_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1725-sdc-1_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1725-sdc-1-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1725-sdc-1-pdf_ja.pdf"
         }
         ],
 		
@@ -16954,6 +17105,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1725-use-2_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1725-use-2_pdf_en.pdf"
+        },
+		{
+            "language": "中文 (Chinese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1725-use-2_html_zh/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1725-use-2_pdf_zh.pdf"
         }
         ],
 		
@@ -16962,6 +17118,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1728-sdc-1_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1728-sdc-1_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1728-sdc-1-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1728-sdc-1-pdf_ja.pdf"
         }
         ],
 		
@@ -16994,6 +17155,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1741-use-1_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1741-use-1_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1741-use-1-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1741-use-1-pdf_ja.pdf"
         }
         ],
 		
@@ -17002,6 +17168,16 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1751-mbl-1_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1751-mbl-1_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1751-mbl-1-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1751-mbl-1-pdf_ja.pdf"
+        },
+		{
+            "language": "中文 (Chinese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1751-mbl-1-html_zh/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1751-mbl-1-pdf_zh.pdf"
         }
         ],
 		
@@ -17010,6 +17186,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1751-mbl-2_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1751-mbl-2_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1751-mbl-2-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1751-mbl-2-pdf_ja.pdf"
         }
         ],
 		
@@ -17018,6 +17199,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1751-mbl-3_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1751-mbl-3_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1751-mbl-3-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1751-mbl-3-pdf_ja.pdf"
         }
         ],
 		
@@ -17026,6 +17212,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1751-mbl-4_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1751-mbl-4_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1751-mbl-4-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1751-mbl-4-pdf_ja.pdf"
         }
         ],
 		
@@ -17034,6 +17225,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1751-mbl-5_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1751-mbl-5_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1751-mbl-5-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1751-mbl-5-pdf_ja.pdf"
         }
         ],
 		
@@ -17058,6 +17254,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1753-mbl-2_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1753-mbl-2_pdf_en.pdf"
+        },
+		{
+            "language": "中文 (Chinese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1753-mbl-2-html_zh/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1753-mbl-2-pdf_zh.pdf"
         }
         ],
 		
@@ -17066,6 +17267,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1755-mbl-1_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1755-mbl-1_pdf_en.pdf"
+        },
+		{
+            "language": "中文 (Chinese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1755-mbl-1-html_zh/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1755-mbl-1-pdf_zh.pdf"
         }
         ],
 		
@@ -17074,6 +17280,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1756-mbl-1_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1756-mbl-1_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1756-mbl-1-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1756-mbl-1-pdf_ja.pdf"
         }
         ],
 		
@@ -17082,6 +17293,16 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1757-mbl-1_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1757-mbl-1_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1757-mbl-1-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1757-mbl-1-pdf_ja.pdf"
+        },
+		{
+            "language": "中文 (Chinese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1757-mbl-1-html_zh/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1757-mbl-1-pdf_zh.pdf"
         }
         ],
 		
@@ -17098,6 +17319,16 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1757-mbl-3_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1757-mbl-3_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1757-mbl-3-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1757-mbl-3-pdf_ja.pdf"
+        },
+		{
+            "language": "中文 (Chinese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1757-mbl-3-html_zh/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1757-mbl-3-pdf_zh.pdf"
         },
 		{
             "language": "Español",
@@ -17151,7 +17382,7 @@
         }
         ],
 		
-		"HOL-1759-MBL-4": [
+		"HOL-1759-USE-4": [
         {
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1759-use-4_html_en/",
@@ -17220,6 +17451,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1790-chg-1_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1790-chg-1_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1790-chg-1-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1790-chg-1-pdf_ja.pdf"
         }
         ],
 		
@@ -17228,6 +17464,11 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1791-chg-1_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1791-chg-1_pdf_en.pdf"
+        },
+		{
+            "language": "日本語 (Japanese)",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1791-chg-1-html_ja/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1791-chg-1-pdf_ja.pdf"
         }
         ]
     },
@@ -17251,6 +17492,8 @@
     "Horizon Workspace",
 	"Hybrid Cloud Manager",
 	"HyTrust",
+	"IBM Softlayer",
+	"Infoblox",
     "IT Business Management Suite",
     "Mirage",
     "NSX",
@@ -17258,7 +17501,9 @@
 	"Palo Alto Networks",
 	"Photon",
     "PowerCLI",
+	"Puppet Labs",
     "ThinApp",
+	"Trend Micro",
 	"VCE",
     "vCenter Operations Management Suite",
     "vCenter Orchestrator",
@@ -17273,6 +17518,7 @@
 	"vCloud Network Functions Virtualization",
     "vFabric Application Director",
     "vFlash",
+	"Virtual SAN",
 	"Virtual Storage",
     "Virtual Volumes",
 	"VMware AirWatch",
@@ -17331,6 +17577,7 @@
     ]
 
 }
+
 
 
 
