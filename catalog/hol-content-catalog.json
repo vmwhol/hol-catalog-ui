@@ -21,7 +21,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "vRealize Business; vRealize Operations",
-    "en",
+    "en,es,pt",
     "HOL-1701-USE-2",
     "vRealize Operations and vRealize Business: Optimize Compute Utilization",
     "Become more efficient by optimizing compute resource utilization and improving planning and forecasting. In this lab, we will demonstrate how vRealize Operations and vRealize Business improve operational efficiency by increasing capacity utilization and resource reclamation, balancing workloads within and across clusters, allowing for better consumption tracking and visibility into the cost of resources, and streamlining capacity planning and forecasting.",
@@ -150,7 +150,7 @@
     ],
     [
     "2017 Hands-on Labs Content Catalog",
-    "EVO SDDC",
+    "VMware Cloud Foundation",
     "en",
     "HOL-1706-SDC-5",
     "VMware Cloud Foundation Fundamentals",
@@ -181,7 +181,7 @@
     [
     "2017 Hands-on Labs Content Catalog",
     "Virtual SAN; vSphere",
-    "en",
+    "en,es,pt",
     "HOL-1708-SDC-1",
     "Virtual SAN 6.2 from A to Z",
     "VMware Virtual SAN (VSAN) is a radically simple, enterprise-class shared storage solution for hyper-converged infrastructure optimized for today’s all-flash performance.  In this lab you will learn how easy it is to enable VSAN and use it to store your VMs.  Also, explore VSAN's features including All-Flash configurations, deduplication and compression, RAID 5/6 erasure encoding, stretched-clustering.",
@@ -200,7 +200,7 @@
     ],
     [
     "2017 Hands-on Labs Content Catalog",
-    "Virtual SAN",
+    "Virtual SAN; Challenge Lab",
     "en",
     "HOL-1708-CHG-3",
     "Virtual SAN 6.2: Challenge Lab",
@@ -213,8 +213,8 @@
     "vCenter Server; vRealize Operations; vSphere",
     "en",
     "HOL-1710-SDC-1",
-    "Virtualization 101: vSphere with Operations Management",
-    "This introductory lab will explore the components and their capabilities within vSphere with Operations Management.  It will cover how to implement these in addition to basic administration topics.  This is an excellent place to begin your experience with VMware vSphere.",
+    "Tech Preview: vSphere with Operations Management",
+    "This tech preview lab will explore the components and their capabilities within vSphere with Operations Management.  It will cover how to implement these in addition to basic administration topics.  This is an excellent place to begin your experience with VMware vSphere.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1710-SDC-1\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1710-SDC-1\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
     ""
     ],
@@ -256,6 +256,16 @@
     "vSphere Automation API and SDK: Tech Preview",
     "This Lab introduces you to vSphere Automation APIs and SDKs, which are new developer friendly, simplified interfaces that allow for Virtual Machine creation, modification and deletion via a consistent set of developer and automation tooling.",
     "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1710-SDC-5\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1710-SDC-5\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
+    ""
+    ],
+    [
+    "2017 Hands-on Labs Content Catalog",
+    "vSphere; vSphere Management SDK",
+    "en",
+    "HOL-1710-SDC-6",
+    "What's New: vSphere 6.5",
+    "Newly announced at VMworld 2016 in Europe! In this lab, you will explore new features of vSphere 6.5 including encrypted VMs, HTML5 Host Client and the vCenter Server appliance.",
+    "<button title=\"show modules\" class=\"btn btn-info btn-vmware-primary btn-xs show-modules\" data-sku=\"HOL-1710-SDC-6\">Show</button><button title=\"hide modules\" style=\"display:none;\" data-sku=\"HOL-1710-SDC-6\" class=\"btn btn-success btn-xs hide-modules\">Hide</button>",
     ""
     ],
     [
@@ -540,8 +550,8 @@
     ],
     [
     "2017 Hands-on Labs Content Catalog",
-    "VMware AirWatch; VMware Identity Manager; Workspace One",
-    "en",
+    "VMware AirWatch; VMware Identity Manager; Workspace ONE",
+    "en,es,pt",
     "HOL-1757-MBL-3",
     "VMware AirWatch: Workspace ONE, Single Sign-on and VMware Identity Manager",
     "Looking for the latest on the VMware Workspace ONE solution? This lab will walk you through integrating AirWatch and Workspace ONE to enable SSO from any device to any application. For this lab we start by configuring the integration in the different consoles and finish up by seeing the SSO in action to a cloud application server.",
@@ -670,7 +680,7 @@
     ],
     [
     "2017 Hands-on Labs Content Catalog",
-    "IBM Softlayer; vCloud Director",
+    "vCloud Director",
     "en",
     "HOL-1787-USE-1",
     "VMware vCloud Director for Service Providers: Build IaaS Platforms",
@@ -3437,6 +3447,23 @@
    "Module Title": "Log Insight Beyond vCenter Server",
    "Module Type": "Feature",
    "Parent Lab SKU": "HOL-1710-SDC-3",
+   "Published": true,
+   "Review Proctor": ""
+ }
+ ],
+     "HOL-1710-SDC-6": [
+ {
+   "Assigned Captain": "Kevin Steil",
+   "Draft 1 Verified": "",
+   "Draft 2 Verified": "",
+   "Final Draft Verified": "",
+   "Module Description": "",
+   "Module Duration": 60,
+   "Module ID": 1,
+   "Module Level": "Beginning",
+   "Module Title": "What's New in vSphere 6.5",
+   "Module Type": "Feature",
+   "Parent Lab SKU": "HOL-1710-SDC-6",
    "Published": true,
    "Review Proctor": ""
  }
@@ -16643,6 +16670,16 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1701-use-2_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1701-use-2_pdf_en.pdf"
+        },
+		        {
+            "language": "Español",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1701-use-2-html_es/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1701-use-2-pdf_es.pdf"
+        },
+        {
+            "language": "Português",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1701-use-2-html_pt-br/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1701-use-2-pdf_pt-br.pdf"
         }
         ],
 		
@@ -16771,6 +16808,16 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1708-sdc-1_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1708-sdc-1_pdf_en.pdf"
+        },
+		{
+            "language": "Español",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-sdc-1-html_es/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-sdc-1-pdf_es.pdf"
+        },
+        {
+            "language": "Português",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-sdc-1-html_pt-br/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1708-sdc-1-pdf_pt-br.pdf"
         }
         ],
 		
@@ -16929,24 +16976,24 @@
 		"HOL-1730-USE-1": [
         {
             "language": "English",
-            "html": "http://docs.hol.vmware.com/HOL-2017/hol-1730-sdc-1_html_en/",
-            "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1730-sdc-1_pdf_en.pdf"
+            "html": "http://docs.hol.vmware.com/HOL-2017/hol-1730-use-1_html_en/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1730-use-1_pdf_en.pdf"
         }
         ],
 		
 		"HOL-1730-USE-2": [
         {
             "language": "English",
-            "html": "http://docs.hol.vmware.com/HOL-2017/hol-1730-sdc-2_html_en/",
-            "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1730-sdc-2_pdf_en.pdf"
+            "html": "http://docs.hol.vmware.com/HOL-2017/hol-1730-use-2_html_en/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1730-use-2_pdf_en.pdf"
         }
         ],
 		
 		"HOL-1741-USE-1": [
         {
             "language": "English",
-            "html": "http://docs.hol.vmware.com/HOL-2017/hol-1741-sdc-1_html_en/",
-            "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1741-sdc-1_pdf_en.pdf"
+            "html": "http://docs.hol.vmware.com/HOL-2017/hol-1741-use-1_html_en/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1741-use-1_pdf_en.pdf"
         }
         ],
 		
@@ -17051,6 +17098,16 @@
             "language": "English",
             "html": "http://docs.hol.vmware.com/HOL-2017/hol-1757-mbl-3_html_en/",
             "pdf": "http://docs.hol.vmware.com/HOL-2017/hol-1757-mbl-3_pdf_en.pdf"
+        },
+		{
+            "language": "Español",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1757-mbl-3-html_es/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1757-mbl-3-pdf_es.pdf"
+        },
+        {
+            "language": "Português",
+            "html": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1757-mbl-3-html_pt-br/",
+            "pdf": "http://docs.hol.vmware.com/HOL-2017/Localization/manuals/hol-1757-mbl-3-pdf_pt-br.pdf"
         }
         ],
 		
@@ -17176,32 +17233,33 @@
     },
   
     "products": [
-    "AirWatch",
     "Big Data Extensions",
+	"Blast",
+	"Boxer",
+	"Challenge Lab",
+	"Check Point",
     "Cloud Native Apps",
     "Continuent",
     "DevOps",
+	"esxtop",
     "Horizon 6",
+	"Horizon 7",
     "Horizon Air",
     "Horizon FLEX",
     "Horizon Mirage",
     "Horizon View",
     "Horizon Workspace",
+	"Hybrid Cloud Manager",
+	"HyTrust",
     "IT Business Management Suite",
-    "Log Insight",
     "Mirage",
     "NSX",
     "OpenStack",
+	"Palo Alto Networks",
+	"Photon",
     "PowerCLI",
     "ThinApp",
-    "VMware AppVolumes",
-    "VMware Data Protection",
-    "VMware User Environment Manager",
-    "Virtual Storage",
-    "Virtual Volumes",
-    "Workbench IS",
-    "Workspace Portal",
-    "esxtop",
+	"VCE",
     "vCenter Operations Management Suite",
     "vCenter Orchestrator",
     "vCenter Server",
@@ -17212,19 +17270,38 @@
     "vCloud Director",
     "vCloud Hybrid Service",
     "vCloud Networking and Security",
+	"vCloud Network Functions Virtualization",
     "vFabric Application Director",
     "vFlash",
+	"Virtual Storage",
+    "Virtual Volumes",
+	"VMware AirWatch",
+	"VMware AppVolumes",
+	"VMware Cloud Foundation",
+    "VMware Data Protection",
+	"VMware Identity Manager",
+	"VMware Learning Platform",
+	"VMware Site Revoery Manager",
+    "VMware User Environment Manager",
+	"VMware Validated Design",
     "vRealize Automation",
     "vRealize Business",
     "vRealize Code Stream",
     "vRealize Hyperic",
+	"vRealize Log Insight",
+	"vRealize Network Insight",
     "vRealize Operations",
     "vRealize Orchestrator",
     "vRealize Suite",
     "vSphere",
+	"vSphere Integrated Containers",
     "vSphere Management SDK",
-    "vSphere Optimization Assessment",
-    "vSphere with Operations Management (vSOM)"
+    "vSphere with Operations Management (vSOM)",
+	"vSphere Optimization Assessment",
+	"VxRail",
+	"Workbench IS",
+	"Workspace ONE",
+    "Workspace Portal"
     ],
     "languages": [
     {

@@ -13,8 +13,8 @@
 		<style title="currentStyle" type="text/css">
 			.hol-logo {
 				position: absolute;
-				left: 30px;
-				top: 30px;
+				left: 50px;
+				top: 50px;
 				width: 150px;
 				height: 140px;
 			}
@@ -36,7 +36,7 @@
 				padding: 30px;
 			}
 			.header-title {
-				font-size: 52px;
+				font-size: 300%;
 				font-weight: 300;
 				font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, Sans-Serif;
 				text-align: center;
@@ -44,7 +44,7 @@
 				padding-top: 0px;
 			}
 			.sub-header {
-				font-size: 14px;
+				font-size: 100%;
 				display: table;
 				padding-top: 20px;
 				padding-bottom: 10px;
@@ -52,6 +52,9 @@
 			}
 			.sub-header p {
 				margin-bottom: 5px;
+			}
+			table {
+				font-size: 100%;
 			}
 			table.dataTable thead {
 				background-color: #0096d3;
@@ -148,11 +151,23 @@
 			#content-catalog-table td:nth-child(1), #content-catalog-table th:nth-child(1), #content-catalog-table td:nth-child(2), #content-catalog-table th:nth-child(2), #content-catalog-table td:nth-child(3), #content-catalog-table th:nth-child(3) {
 				display: none;
 			}
-			#content-catalog-table td:nth-child(6) {
-				min-width: 500px;
-			}
 			#content-catalog-table td:nth-child(4) {
 				text-align: center;
+			}
+			#content-catalog-table td:nth-child(5) {
+				min-width: 200px;
+			}
+			#content-catalog-table td:nth-child(6) {
+				min-width: 400px;
+			}
+			#content-catalog-table th:nth-child(4) {
+				width: 150px;
+			}
+			#content-catalog-table th:nth-child(7) {
+				width: 100px;
+			}
+			#content-catalog-table th:nth-child(8) {
+				width: 150px;
 			}
 			.modules-table thead th, .modules-table thead td {
 				vertical-align: middle !important;
@@ -191,7 +206,7 @@
 				color: white;
 			}
 			.btn-vmware-primary.btn-lg {
-				font-size: 14px;
+				font-size: 100%;
 				padding: 12px 20px;
 			}
 		</style>
@@ -207,7 +222,7 @@
 				$.getJSON('hol-content-catalog.json',function(data){
 					$("#content-catalog-table-wrapper").empty().css("text-align","left");
 					var latestCatalog = [];
-					data.catalogs.latestCatalog = "2016 Hands-on Labs Content Catalog";
+					data.catalogs.latestCatalog = "2017 Hands-on Labs Content Catalog";
 					for(var i=0; i<data.data.length; i++) {
 						var currentSKU = data.data[i][3];
 						if (Array.isArray(data.assets[currentSKU])) {
@@ -445,14 +460,14 @@
 		</script>
 		<div class="row header-container">
 			<div class="header-wrapper">
-				<div class="hol-logo"><img src="static/images/hol-logo.png" width="274" height="249"></div>
 				<div class="header-block">
-					<header class="header-title">Hands-on Labs - Content Catalog</header>
+					<header class="header-title"><img src="static/images/hol-logo.png" width="165" height="150"> Hands-on Labs - Content Catalog</header>
 					<div class="sub-header">
 						<p>Welcome to the VMware Hands-on Labs - Content Catalog. The lab manuals are available in both HTML and PDF formats.</p>
 						<p>Don't forget to visit the <a href="http://labs.hol.vmware.com/">Hands-on Labs Online portal</a> to experience the labs now in our live cloud environment.</p>
 						<p>Please note that the currently released catalog is 2016. These labs are available online today and you can view<br>online documentation by clicking on HTML or PDF next to each lab entry.</p>
 						<p>You may view prior years by selecting the appropriate catalog from the drop-down menu below.</p>
+						<p>The 2017 Content Catalog makes its debut at VMworld in Las Vegas. These labs will be available online later in the Fall.</p>
 						<p>Contact the Hands-on Labs Core Team with questions. <a href="mailto:hands-on-lab-beta@vmware.com">hands-on-lab-beta@vmware.com</a></p>
 					</div>
 				</div>
